@@ -1,0 +1,24 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="6.11.4" last-modified="1507325403000" />
+      <npm-package value="/usr/share/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/lbh-back/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/lbh/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/anaconda3/envs/lbh-back/bin/python" value="false" />
+        <entry key="$USER_HOME$/anaconda3/envs/lbh/bin/python" value="false" />
+        <entry key="/usr/bin/python2.7" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
