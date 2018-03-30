@@ -256,6 +256,9 @@
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.ts" timestamp="1520275753870">
         <mark key="'" line="210" column="4" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" timestamp="1522412705212">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/templates/swagger.html" timestamp="1520583033265">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="94" column="0" />
@@ -319,12 +322,12 @@
         <mark key="." line="226" column="57" />
         <mark key="^" line="226" column="57" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1522411606309">
-        <mark key="'" line="53" column="14" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1522412504579">
+        <mark key="'" line="33" column="14" />
+        <mark key="[" line="54" column="42" />
+        <mark key="]" line="54" column="43" />
         <mark key="^" line="10" column="19" />
-        <mark key="." line="43" column="0" />
+        <mark key="." line="54" column="43" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/auth/expired-token-interceptor.service.ts" timestamp="1520194221680">
         <mark key="[" line="27" column="66" />
@@ -404,8 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="482" column="62" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="120" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="128" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="130" column="38" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="463" column="42" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
@@ -504,6 +505,8 @@
       <jump line="9" column="30" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="10" column="35" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="11" column="45" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
+      <jump line="32" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -519,7 +522,7 @@
         <text>, to_recipients=['emerton222@gmail.com']</text>
       </register>
       <register name="/" type="4">
-        <text>ngx</text>
+        <text>flex</text>
       </register>
       <register name="0" type="4">
         <text>MIS@lbh-group.com</text>
@@ -556,9 +559,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ngx</last-search>
+      <last-search>flex</last-search>
       <last-offset />
-      <last-pattern>ngx</last-pattern>
+      <last-pattern>flex</last-pattern>
       <last-replace>commodityService</last-replace>
       <last-substitute>operationService</last-substitute>
       <last-dir>1</last-dir>
@@ -584,8 +587,8 @@
         <entry>ID of port</entry>
         <entry>plotly</entry>
         <entry>swimlane</entry>
-        <entry>flex</entry>
         <entry>ngx</entry>
+        <entry>flex</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
