@@ -123,6 +123,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" timestamp="1522411644971">
+        <mark key="'" line="11" column="45" />
+        <mark key="[" line="417" column="0" />
+        <mark key="]" line="417" column="0" />
+        <mark key="." line="417" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/extensions.py" timestamp="1520700967859">
         <mark key="'" line="18" column="8" />
         <mark key="[" line="49" column="49" />
@@ -313,7 +319,8 @@
         <mark key="." line="226" column="57" />
         <mark key="^" line="226" column="57" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1520698740039">
+      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1522411606309">
+        <mark key="'" line="53" column="14" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="^" line="10" column="19" />
@@ -397,13 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/locations.py" />
-      <jump line="398" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="309" column="10" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="110" column="12" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="467" column="2" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="451" column="29" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="409" column="30" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="482" column="62" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="120" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="128" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
@@ -497,13 +497,20 @@
       <jump line="29" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
       <jump line="18" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
       <jump line="6" column="17" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
+      <jump line="18" column="15" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
+      <jump line="53" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
+      <jump line="15" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
+      <jump line="9" column="30" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
+      <jump line="10" column="35" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
+      <jump line="11" column="45" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, to_recipients=['emerton222@gmail.com']</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
@@ -512,46 +519,46 @@
         <text>, to_recipients=['emerton222@gmail.com']</text>
       </register>
       <register name="/" type="4">
-        <text>plotly</text>
+        <text>ngx</text>
       </register>
       <register name="0" type="4">
         <text>MIS@lbh-group.com</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzdWJqZWN0PSdUZXN0MScsIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgTmd4RGF0YXRhYmxlTW9kdWxlIH0gZnJvbSAnQHN3aW1sYW5lL25neC1kYXRhdGFibGUnOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">TUFJTF9QQVNTV09SRAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzdWJqZWN0PSdUZXN0MScsIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">TUFJTF9QQVNTV09SRD13c2Vsamhyd3N3Ym50cnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUFJTF9VU0VSTkFNRT1ndXlAdGlkZWh1bnRlci5jby51awo=</text>
+        <text encoding="base64">TUFJTF9QQVNTV09SRAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">TUFJTF9QQVNTV09SRD13c2Vsamhyd3N3Ym50cnN0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgY29kaW5nOiB1dGYtOAoK</text>
+        <text encoding="base64">TUFJTF9VU0VSTkFNRT1ndXlAdGlkZWh1bnRlci5jby51awo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmIHNlbmRfZXhjaGFuZ2VfYXN5bmNfZW1haWwoKiprd2FyZ3MpOgogICAgIyBjb2Rpbmc6IHV0Zi04Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAjIEluWzM4XToK</text>
+        <text encoding="base64">ICAgICMgY29kaW5nOiB1dGYtOAoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>plotly</last-search>
+      <last-search>ngx</last-search>
       <last-offset />
-      <last-pattern>plotly</last-pattern>
+      <last-pattern>ngx</last-pattern>
       <last-replace>commodityService</last-replace>
       <last-substitute>operationService</last-substitute>
       <last-dir>1</last-dir>
@@ -559,9 +566,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rowNumber</entry>
-        <entry>provider</entry>
-        <entry>TOKEN</entry>
         <entry>admin</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>this.filters</entry>
@@ -579,9 +583,11 @@
         <entry>berth port</entry>
         <entry>ID of port</entry>
         <entry>plotly</entry>
+        <entry>swimlane</entry>
+        <entry>flex</entry>
+        <entry>ngx</entry>
       </history-search>
       <history-cmd>
-        <entry>244</entry>
         <entry>47</entry>
         <entry>43</entry>
         <entry>76</entry>
@@ -600,6 +606,7 @@
         <entry>53</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>418</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
