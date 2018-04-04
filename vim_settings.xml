@@ -373,6 +373,9 @@
         <mark key="." line="6" column="54" />
         <mark key="^" line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/extensions.py" timestamp="1522823111567">
+        <mark key="'" line="24" column="12" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/proxy.conf.json" timestamp="1518623157419">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -407,8 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="130" column="38" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="463" column="42" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="510" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="97" column="17" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/port_calls.py" />
@@ -507,6 +508,8 @@
       <jump line="11" column="45" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="32" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
       <jump line="2" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" />
+      <jump line="15" column="28" filename="$USER_HOME$/software/lbh_berthtrack/base_app/extensions.py" />
+      <jump line="24" column="12" filename="$USER_HOME$/software/lbh_berthtrack/base_app/extensions.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -522,7 +525,7 @@
         <text>, to_recipients=['emerton222@gmail.com']</text>
       </register>
       <register name="/" type="4">
-        <text>flex</text>
+        <text>Reporting</text>
       </register>
       <register name="0" type="4">
         <text>MIS@lbh-group.com</text>
@@ -559,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>flex</last-search>
+      <last-search>Reporting</last-search>
       <last-offset />
-      <last-pattern>flex</last-pattern>
+      <last-pattern>Reporting</last-pattern>
       <last-replace>commodityService</last-replace>
       <last-substitute>operationService</last-substitute>
       <last-dir>1</last-dir>
@@ -569,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>admin</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>this.filters</entry>
         <entry>select</entry>
@@ -589,6 +591,7 @@
         <entry>swimlane</entry>
         <entry>ngx</entry>
         <entry>flex</entry>
+        <entry>Reporting</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
