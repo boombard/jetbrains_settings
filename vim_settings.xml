@@ -322,6 +322,12 @@
       <file name="/Dummy.txt" timestamp="1523258594490">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" timestamp="1523276821103">
+        <mark key="[" line="185" column="34" />
+        <mark key="]" line="185" column="7" />
+        <mark key="^" line="185" column="7" />
+        <mark key="." line="185" column="7" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/base/navbar/navbar.component.html" timestamp="1520155442942">
         <mark key="[" line="18" column="83" />
         <mark key="]" line="18" column="82" />
