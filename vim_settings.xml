@@ -274,6 +274,13 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1523258701871">
+        <mark key="'" line="90" column="12" />
+        <mark key="[" line="190" column="35" />
+        <mark key="]" line="190" column="36" />
+        <mark key="." line="190" column="36" />
+        <mark key="^" line="191" column="38" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0cc6d5f5-838a-419d-8c9d-653c74ddc03e/console.sql" timestamp="1518712958129">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="37" />
@@ -307,7 +314,7 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522407183380">
+      <file name="/Dummy.txt" timestamp="1523258594490">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/base/navbar/navbar.component.html" timestamp="1520155442942">
@@ -418,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/port_calls.py" />
       <jump line="360" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="470" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="472" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
@@ -518,52 +524,67 @@
       <jump line="203" column="21" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="204" column="58" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="154" column="48" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
+      <jump line="90" column="12" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IDAK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>, to_recipients=['emerton222@gmail.com']</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>origin_country</text>
       </register>
       <register name="0" type="4">
-        <text>MIS@lbh-group.com</text>
+        <text>,
+            {
+                'vessel': '2018 hope',
+                'vessel_type_name': 'Handymax',
+                'eta': '2018-01-01',
+                'etb': '2018-01-02',
+                'ets': '2018-01-03',
+                'port_locode': 'Durban [ZA-DUR]',
+                'commodity_name': 'Iron Ore',
+                'operation_name': 'Loading',
+                'cargo_origin_locode': 'South Africa [ZA-DUR]',
+                'cargo_destination_locode': 'South Africa [ZA-...]',
+                'berth_id': self.berth_b.id,
+                'tonnage': 1000
+            }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IDAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZ3JlZ2F0aW9uJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmd4RGF0YXRhYmxlTW9kdWxlIH0gZnJvbSAnQHN3aW1sYW5lL25neC1kYXRhdGFibGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzdWJqZWN0PSdUZXN0MScsIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHsgTmd4RGF0YXRhYmxlTW9kdWxlIH0gZnJvbSAnQHN3aW1sYW5lL25neC1kYXRhdGFibGUnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">TUFJTF9QQVNTV09SRAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBzdWJqZWN0PSdUZXN0MScsIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">TUFJTF9QQVNTV09SRD13c2Vsamhyd3N3Ym50cnN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
