@@ -361,6 +361,12 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="89" column="9" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" timestamp="1523275303796">
+        <mark key="[" line="116" column="30" />
+        <mark key="]" line="116" column="37" />
+        <mark key="." line="116" column="37" />
+        <mark key="^" line="116" column="37" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-edit-dialog/user-edit-dialog.component.css" timestamp="1518439549667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="22" />
@@ -541,14 +547,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text>this.dataFrame.index</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>const result: any =</text>
+        <text>this.dataFrame.index</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
@@ -557,31 +563,31 @@
         <text encoding="base64">ICAgICAgICByZXN1bHRfZGYgPSByZXN1bHRfZGYuZ3JvdXBieShwZC5Hcm91cGVyKGZyZXE9J00nKSkgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNoYXBlID0gdGhpcy5zaGFwZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNoYXBlID0gdGhpcy5zaGFwZSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaGFwZScsIHRoaXMuc2hhcGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgdGhpcy5kYXRhLCB0aGlzLmluZGV4KTsKICAgIGNvbnNvbGUubG9nKCdzdW0nLCB0aGlzLnN1bShheGlzLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaGFwZScsIHRoaXMuc2hhcGUoKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHBvc2l0ZUF4aXNMZW5ndGgnLCBvcHBvc2l0ZUF4aXNMZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgdGhpcy5kYXRhLCB0aGlzLmluZGV4KTsKICAgIGNvbnNvbGUubG9nKCdzdW0nLCB0aGlzLnN1bShheGlzLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFsdGVybmF0ZVNoYXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHBvc2l0ZUF4aXNMZW5ndGgnLCBvcHBvc2l0ZUF4aXNMZW5ndGgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcmVzdWx0X2RmLmdyb3VwYnkocGQuR3JvdXBlcihmcmVxPSdNJykpCgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFsdGVybmF0ZVNoYXBlKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
