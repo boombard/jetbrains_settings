@@ -274,11 +274,11 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1523271830193">
-        <mark key="'" line="90" column="12" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1523278630035">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="184" column="24" />
+        <mark key="]" line="184" column="25" />
+        <mark key="." line="184" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0cc6d5f5-838a-419d-8c9d-653c74ddc03e/console.sql" timestamp="1518712958129">
         <mark key="[" line="0" column="37" />
@@ -322,11 +322,12 @@
       <file name="/Dummy.txt" timestamp="1523258594490">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" timestamp="1523276821103">
-        <mark key="[" line="185" column="34" />
-        <mark key="]" line="185" column="7" />
-        <mark key="^" line="185" column="7" />
-        <mark key="." line="185" column="7" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" timestamp="1523279931877">
+        <mark key="a" line="207" column="15" />
+        <mark key="[" line="212" column="38" />
+        <mark key="]" line="213" column="47" />
+        <mark key="." line="213" column="47" />
+        <mark key="^" line="213" column="47" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/base/navbar/navbar.component.html" timestamp="1520155442942">
         <mark key="[" line="18" column="83" />
@@ -367,11 +368,13 @@
         <mark key="." line="79" column="0" />
         <mark key="^" line="89" column="9" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" timestamp="1523275303796">
-        <mark key="[" line="116" column="30" />
-        <mark key="]" line="116" column="37" />
-        <mark key="." line="116" column="37" />
-        <mark key="^" line="116" column="37" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" timestamp="1523279708077">
+        <mark key="a" line="117" column="56" />
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="79" column="56" />
+        <mark key="." line="79" column="56" />
+        <mark key="^" line="79" column="56" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-edit-dialog/user-edit-dialog.component.css" timestamp="1518439549667">
         <mark key="[" line="0" column="0" />
@@ -448,13 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="529" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="644" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="566" column="63" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="45" column="8" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="579" column="17" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
-      <jump line="531" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="624" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="622" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
       <jump line="533" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/static/swagger_spec.yml" />
@@ -548,52 +544,85 @@
       <jump line="90" column="12" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
       <jump line="276" column="39" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
+      <jump line="190" column="22" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" />
+      <jump line="207" column="15" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" />
+      <jump line="214" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/chart.service.ts" />
+      <jump line="119" column="56" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" />
+      <jump line="116" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" />
+      <jump line="77" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>this.dataFrame.index</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvciAoY29uc3QgZGF0YXNldCBvZiBjaGFydC5kYXRhLmRhdGFzZXRzKSB7Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>this.dataFrame.index</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRfZGYgPSByZXN1bHRfZGYuZ3JvdXBieShwZC5Hcm91cGVyKGZyZXE9J00nKSkgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhc2V0LmJvcmRlckNvbG9yID0gcHJlc2V0Q29sb3JzW2RhdGFzZXQubGFiZWxdLmJvcmRlckNvbG9yOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvciAoY29uc3QgZGF0YXNldCBvZiBjaGFydC5kYXRhLmRhdGFzZXRzKSB7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
+        <text encoding="base64">CiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNoYXBlID0gdGhpcy5zaGFwZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkXycsIGRfKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaGFwZScsIHRoaXMuc2hhcGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdiYXIgbGFiZWxzJywgcGxvdERhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgdGhpcy5kYXRhLCB0aGlzLmluZGV4KTsKICAgIGNvbnNvbGUubG9nKCdzdW0nLCB0aGlzLnN1bShheGlzLCBmYWxzZSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwaWVfbGFiZWxzJywgY29sbGFwc2VkLm1hcChlID0+IGVbMF0pKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHBvc2l0ZUF4aXNMZW5ndGgnLCBvcHBvc2l0ZUF4aXNMZW5ndGgpOwo=</text>
+      <register name="8" type="4">
+        <text>export function presetColorAssignment(presetColors) {
+  return {
+    beforeUpdate: function(chart) {
+      switch (chart.config.type) {
+        case 'bar': {
+          for (const dataset of chart.data.datasets) {
+            if (presetColors[dataset.label]) {
+              dataset.borderColor = presetColors[dataset.label].borderColor;
+              dataset.backgroundColor = presetColors[dataset.label].backgroundColor;
+            }
+          }
+          break;
+        }
+        case 'pie': {
+          for (const dataset of chart.data.datasets) {
+            if (presetColors[dataset.label]) {
+              const borderColors = [];
+              for (const d_ of dataset.data) {
+                print(d_);
+              }
+            }
+          }
+        }
+      }
+    }
+  };
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFsdGVybmF0ZVNoYXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvcmRlckNvbG9ycy5wdXNoCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -610,7 +639,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.filters</entry>
         <entry>select</entry>
         <entry>commodity</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
@@ -629,10 +657,10 @@
         <entry>flex</entry>
         <entry>Reporting</entry>
         <entry>origin_country</entry>
+        <entry>consol</entry>
         <entry>console</entry>
       </history-search>
       <history-cmd>
-        <entry>47</entry>
         <entry>43</entry>
         <entry>76</entry>
         <entry>122</entry>
@@ -651,6 +679,7 @@
         <entry>wq</entry>
         <entry>418</entry>
         <entry>q</entry>
+        <entry>191</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
