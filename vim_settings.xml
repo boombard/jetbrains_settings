@@ -93,12 +93,12 @@
         <mark key="^" line="8" column="16" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1523268057446">
-        <mark key="a" line="274" column="39" />
+        <mark key="a" line="276" column="39" />
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="273" column="0" />
-        <mark key="]" line="273" column="0" />
-        <mark key="^" line="274" column="16" />
-        <mark key="." line="273" column="0" />
+        <mark key="[" line="275" column="0" />
+        <mark key="]" line="275" column="0" />
+        <mark key="^" line="276" column="16" />
+        <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.css" timestamp="1520205484772">
         <mark key="[" line="2" column="15" />
@@ -274,12 +274,11 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1523267538774">
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1523271830193">
         <mark key="'" line="90" column="12" />
-        <mark key="[" line="193" column="14" />
-        <mark key="]" line="194" column="22" />
-        <mark key="^" line="194" column="22" />
-        <mark key="." line="194" column="22" />
+        <mark key="[" line="234" column="0" />
+        <mark key="]" line="234" column="0" />
+        <mark key="." line="234" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0cc6d5f5-838a-419d-8c9d-653c74ddc03e/console.sql" timestamp="1518712958129">
         <mark key="[" line="0" column="37" />
@@ -314,10 +313,11 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/waiting-time/waiting-time.component.ts" timestamp="1523260943192">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="53" column="5" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/waiting-time/waiting-time.component.ts" timestamp="1523271386011">
+        <mark key="a" line="67" column="20" />
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="15" />
       </file>
       <file name="/Dummy.txt" timestamp="1523258594490">
         <mark key="[" line="0" column="0" />
@@ -355,11 +355,11 @@
         <mark key="." line="28" column="101" />
         <mark key="^" line="28" column="101" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/statistics.service.ts" timestamp="1523264929036">
-        <mark key="[" line="90" column="37" />
-        <mark key="]" line="90" column="48" />
-        <mark key="." line="90" column="48" />
-        <mark key="^" line="90" column="48" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/statistics.service.ts" timestamp="1523271283211">
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="89" column="9" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-edit-dialog/user-edit-dialog.component.css" timestamp="1518439549667">
         <mark key="[" line="0" column="0" />
@@ -542,55 +542,55 @@
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcmVzdWx0X2RmLmdyb3VwYnkocGQuR3JvdXBlcihmcmVxPSdNJykpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>agg</text>
+        <text>const result: any =</text>
       </register>
       <register name="/" type="4">
-        <text>origin_country</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXN1bHRfZGYgPSByZXN1bHRfZGYuZ3JvdXBieShwZC5Hcm91cGVyKGZyZXE9J00nKSkgXAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcmVzdWx0X2RmLmdyb3VwYnkocGQuR3JvdXBlcihmcmVxPSdNJykpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGF0YSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChkZikK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNoYXBlID0gdGhpcy5zaGFwZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyBwcmludChyZXN1bHQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZXN1bHRfZGYpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZXN1bHQnLCByZXN1bHQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgndGVzdCcpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdzaGFwZScsIHRoaXMuc2hhcGUoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0Lmdyb3VwcykKICAgICAgICBwcmludCh0ZXN0Lm1lYW4oKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhJywgdGhpcy5kYXRhLCB0aGlzLmluZGV4KTsKICAgIGNvbnNvbGUubG9nKCdzdW0nLCB0aGlzLnN1bShheGlzLCBmYWxzZSkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGYuZmlsbG5hKDAsIGlucGxhY2U9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdvcHBvc2l0ZUF4aXNMZW5ndGgnLCBvcHBvc2l0ZUF4aXNMZW5ndGgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGYpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFsdGVybmF0ZVNoYXBlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0ID0gcmVzdWx0X2RmLmdyb3VwYnkocGQuR3JvdXBlcihmcmVxPSdNJykpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>origin_country</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>origin_country</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>commodityService</last-replace>
       <last-substitute>operationService</last-substitute>
       <last-dir>1</last-dir>
@@ -600,7 +600,6 @@
       <history-search>
         <entry>this.filters</entry>
         <entry>select</entry>
-        <entry>console</entry>
         <entry>commodity</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>jwt</entry>
@@ -618,6 +617,7 @@
         <entry>flex</entry>
         <entry>Reporting</entry>
         <entry>origin_country</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
