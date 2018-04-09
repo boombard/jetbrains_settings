@@ -92,12 +92,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1523257429624">
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1523265347970">
         <mark key="a" line="182" column="34" />
         <mark key="'" line="154" column="48" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
+        <mark key="[" line="276" column="23" />
+        <mark key="]" line="276" column="30" />
+        <mark key="." line="276" column="30" />
+        <mark key="^" line="276" column="30" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.css" timestamp="1520205484772">
         <mark key="[" line="2" column="15" />
@@ -350,8 +351,11 @@
         <mark key="." line="28" column="101" />
         <mark key="^" line="28" column="101" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/statistics.service.ts" timestamp="1523262559318">
-        <mark key="." line="73" column="5" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/statistics.service.ts" timestamp="1523264929036">
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="48" />
+        <mark key="." line="90" column="48" />
+        <mark key="^" line="90" column="48" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-edit-dialog/user-edit-dialog.component.css" timestamp="1518439549667">
         <mark key="[" line="0" column="0" />
@@ -533,14 +537,14 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>axis=1</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>axis=1</text>
       </register>
       <register name="/" type="4">
         <text>origin_country</text>
@@ -563,34 +567,34 @@
             }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IDAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZ3JlZ2F0aW9uJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0IDAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhZ3JlZ2F0aW9uJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvcmlnaW5fY291bnRyeS5uYW1lLmxhYmVsKCdvcmlnaW5fY291bnRyeScpLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTmd4RGF0YXRhYmxlTW9kdWxlIH0gZnJvbSAnQHN3aW1sYW5lL25neC1kYXRhdGFibGUnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBzdWJqZWN0PSdUZXN0MScsIA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIE5neERhdGF0YWJsZU1vZHVsZSwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -642,10 +646,10 @@
         <entry>201</entry>
         <entry>198</entry>
         <entry>53</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>418</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
