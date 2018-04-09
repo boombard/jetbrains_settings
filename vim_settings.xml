@@ -350,6 +350,9 @@
         <mark key="." line="28" column="101" />
         <mark key="^" line="28" column="101" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/statistics.service.ts" timestamp="1523262559318">
+        <mark key="." line="73" column="5" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-edit-dialog/user-edit-dialog.component.css" timestamp="1518439549667">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="22" />
