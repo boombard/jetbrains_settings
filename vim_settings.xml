@@ -93,6 +93,14 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1524644862850">
+        <mark key="a" line="293" column="36" />
+        <mark key="'" line="378" column="0" />
+        <mark key="[" line="361" column="0" />
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="382" column="39" />
+        <mark key="." line="361" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.css" timestamp="1520205484772">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -199,12 +207,12 @@
         <mark key="." line="42" column="70" />
         <mark key="^" line="42" column="70" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" timestamp="1523872630514">
-        <mark key="'" line="420" column="25" />
-        <mark key="[" line="171" column="29" />
-        <mark key="]" line="172" column="26" />
-        <mark key="." line="172" column="26" />
-        <mark key="^" line="172" column="26" />
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" timestamp="1524644182387">
+        <mark key="'" line="431" column="25" />
+        <mark key="[" line="277" column="37" />
+        <mark key="]" line="277" column="38" />
+        <mark key="." line="277" column="38" />
+        <mark key="^" line="283" column="22" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/port-call.service.ts" timestamp="1520274145235">
         <mark key="[" line="41" column="53" />
@@ -261,6 +269,9 @@
       <file name="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" timestamp="1522412705212">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="/Django Console" timestamp="1524641829808">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/templates/swagger.html" timestamp="1520583033265">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="94" column="0" />
@@ -277,6 +288,12 @@
         <mark key="]" line="81" column="51" />
         <mark key="." line="81" column="51" />
         <mark key="^" line="81" column="51" />
+      </file>
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" timestamp="1524644888037">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0cc6d5f5-838a-419d-8c9d-653c74ddc03e/console.sql" timestamp="1518712958129">
         <mark key="[" line="0" column="37" />
@@ -440,11 +457,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
-      <jump line="33" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
-      <jump line="6" column="17" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" />
       <jump line="18" column="15" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
       <jump line="53" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
@@ -540,52 +552,57 @@
       <jump line="457" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="160" column="7" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="57" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/vessel-type-admin/vessel-type-admin.component.ts" />
+      <jump line="362" column="3" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
+      <jump line="368" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
+      <jump line="371" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
+      <jump line="228" column="13" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAkcmVmOiAnIy9jb21wb25lbnRzL3NjaGVtYXMvUG9ydENoaWxkJwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgZGVsZXRlVmVzc2VsVHlwZShpZDogbnVtYmVyKSB7CiAgICByZXR1cm4gdGhpcy52ZXNzZWxUeXBlU2VydmljZS5kZWxldGVWZXNzZWxUeXBlKGlkKTsKICB9Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuYXBwLmFwcF9jb250ZXh0KCk6CiAgICAgICAgICAgIHByaW50KGRiLnNlc3Npb24ucXVlcnkoUG9ydENhbGwud2FpdGluZ190aW1lKS5hbGwoKSkK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>eta</text>
+        <text>np.nan</text>
       </register>
       <register name="/" type="4">
         <text>console</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgIGNvbnN0IGhvdCA9IHRoaXMuaG90UmVnaXN0ZXJlci5nZXRJbnN0YW5jZSh0aGlzLmluc3RhbmNlSWQpOwogICAgICBmb3IgKGNvbnN0IGNoYW5nZSBvZiBjaGFuZ2VzKSB7CiAgICAgICAgaWYgKGNoYW5nZVsxXSA9PT0gJ2V0YScgfHwgY2hhbmdlWzFdID09PSAnZXRiJyB8fCBjaGFuZ2VbMV0gPT09ICdldHMnKSB7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRmWyd3YWl0aW5nX3RpbWUnXSA9IGRmWyd3YWl0aW5nX3RpbWUnXS5hc3R5cGUoaW50KQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgZGVsZXRlVmVzc2VsVHlwZShpZDogbnVtYmVyKSB7CiAgICByZXR1cm4gdGhpcy52ZXNzZWxUeXBlU2VydmljZS5kZWxldGVWZXNzZWxUeXBlKGlkKTsKICB9Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuYXBwLmFwcF9jb250ZXh0KCk6CiAgICAgICAgICAgIHByaW50KGRiLnNlc3Npb24ucXVlcnkoUG9ydENhbGwud2FpdGluZ190aW1lKS5hbGwoKSkK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICMgZGZbJ3dhaXRpbmdfdGltZSddID0gZGYuYXBwbHkoCiAgICAjICAgICBsYW1iZGEgeDogKHhbJ2V0YiddIC0geFsnZXRhJ10pLmRheXMgaWYgeFsnZXRiJ10gZWxzZSBucC5uYW4sIGF4aXM9MSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgZGVsZXRlVmVzc2VsVHlwZShpZDogbnVtYmVyKSB7CiAgICByZXR1cm4gdGhpcy52ZXNzZWxUeXBlU2VydmljZS5kZWxldGVWZXNzZWxUeXBlKGlkKTsKICB9</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1cGRhdGluZyBEV1QnKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBkZlsnd2FpdGluZ190aW1lJ10gPSBkZlsnd2FpdGluZ190aW1lJ10uYXN0eXBlKGludCkKICAgIGRmWydkd3QnXSA9IGRmWydkd3QnXS5hc3R5cGUoaW50KQogICAgZGZbJ3Rvbm5hZ2UnXSA9IGRmWyd0b25uYWdlJ10uYXN0eXBlKGludCk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCd0aGlzIGlzIGR3dCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygndmVzc2VsVHlwZScsIHZlc3NlbFR5cGUpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAjIENhbGN1bGF0ZSB3YWl0aW5nIHRpbWVzCiAgICBkZlsnd2FpdGluZ190aW1lJ10gPSBkZi5hcHBseSgKICAgICAgICBsYW1iZGEgeDogKHhbJ2V0YiddIC0geFsnZXRhJ10pLmRheXMgaWYgeFsnZXRiJ10gZWxzZSBucC5uYW4sIGF4aXM9MSk=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGR3dCwgdmVzc2VsVHlwZS5kd3Rfc3RhcnQsIHZlc3NlbFR5cGUuZHd0X2VuZCk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgZGVsZXRlVmVzc2VsVHlwZShpZDogbnVtYmVyKSB7CiAgICByZXR1cm4gdGhpcy52ZXNzZWxUeXBlU2VydmljZS5kZWxldGVWZXNzZWxUeXBlKGlkKTsKICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgZGVsZXRlVmVzc2VsVHlwZShpZDogbnVtYmVyKSB7CiAgICByZXR1cm4gdGhpcy52ZXNzZWxUeXBlU2VydmljZS5kZWxldGVWZXNzZWxUeXBlKGlkKTsKICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
