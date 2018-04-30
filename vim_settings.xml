@@ -93,13 +93,13 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1524644862850">
-        <mark key="a" line="293" column="36" />
-        <mark key="'" line="378" column="0" />
-        <mark key="[" line="361" column="0" />
-        <mark key="]" line="361" column="0" />
-        <mark key="^" line="382" column="39" />
-        <mark key="." line="361" column="0" />
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1525085660389">
+        <mark key="a" line="300" column="36" />
+        <mark key="'" line="385" column="0" />
+        <mark key="[" line="191" column="88" />
+        <mark key="]" line="192" column="85" />
+        <mark key="^" line="192" column="85" />
+        <mark key="." line="192" column="85" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.css" timestamp="1520205484772">
         <mark key="[" line="2" column="15" />
