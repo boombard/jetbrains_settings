@@ -37,13 +37,13 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" timestamp="1525162367801">
-        <mark key="a" line="231" column="15" />
-        <mark key="'" line="145" column="8" />
-        <mark key="[" line="63" column="38" />
-        <mark key="]" line="63" column="39" />
-        <mark key="." line="63" column="39" />
-        <mark key="^" line="63" column="39" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" timestamp="1525169808754">
+        <mark key="a" line="234" column="15" />
+        <mark key="'" line="118" column="35" />
+        <mark key="[" line="78" column="51" />
+        <mark key="]" line="78" column="56" />
+        <mark key="." line="78" column="56" />
+        <mark key="^" line="78" column="56" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/vessel-type-admin/vessel-type-admin.component.ts" timestamp="1523956149478">
         <mark key="'" line="57" column="0" />
@@ -94,13 +94,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1525086595479">
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1525169908849">
         <mark key="a" line="206" column="12" />
         <mark key="'" line="194" column="24" />
-        <mark key="[" line="165" column="28" />
-        <mark key="]" line="165" column="38" />
-        <mark key="." line="165" column="38" />
-        <mark key="^" line="165" column="38" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.css" timestamp="1520205484772">
         <mark key="[" line="2" column="15" />
@@ -143,11 +142,6 @@
         <mark key="." line="49" column="55" />
         <mark key="^" line="49" column="49" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.ts" timestamp="1523871429076">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.css" timestamp="1518520041566">
         <mark key="[" line="6" column="2" />
         <mark key="]" line="6" column="20" />
@@ -165,11 +159,6 @@
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/berth-admin/berth-admin.component.html" timestamp="1523877184598">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="20" column="5" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/restrictions-dialog/restrictions-dialog.component.ts" timestamp="1519754294392">
         <mark key="[" line="21" column="48" />
@@ -193,8 +182,13 @@
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/locations.py" timestamp="1520627672338">
         <mark key="'" line="186" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" timestamp="1520697802852">
-        <mark key="'" line="401" column="0" />
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" timestamp="1525969106461">
+        <mark key="a" line="265" column="75" />
+        <mark key="'" line="421" column="0" />
+        <mark key="[" line="266" column="44" />
+        <mark key="]" line="268" column="42" />
+        <mark key="^" line="268" column="42" />
+        <mark key="." line="268" column="42" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/confirm-changes-dialog/confirm-changes-dialog.component.ts" timestamp="1519289126823">
         <mark key="[" line="22" column="5" />
@@ -208,12 +202,13 @@
         <mark key="." line="42" column="70" />
         <mark key="^" line="42" column="70" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" timestamp="1524644182387">
-        <mark key="'" line="431" column="25" />
-        <mark key="[" line="277" column="37" />
-        <mark key="]" line="277" column="38" />
-        <mark key="." line="277" column="38" />
-        <mark key="^" line="283" column="22" />
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" timestamp="1525968655519">
+        <mark key="a" line="439" column="0" />
+        <mark key="'" line="430" column="4" />
+        <mark key="[" line="353" column="0" />
+        <mark key="]" line="354" column="35" />
+        <mark key="." line="354" column="35" />
+        <mark key="^" line="354" column="35" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/port-call.service.ts" timestamp="1520274145235">
         <mark key="[" line="41" column="53" />
@@ -257,13 +252,13 @@
         <mark key="." line="0" column="34" />
         <mark key="^" line="0" column="34" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.ts" timestamp="1525160914050">
-        <mark key="a" line="33" column="10" />
-        <mark key="'" line="232" column="24" />
-        <mark key="[" line="211" column="33" />
-        <mark key="]" line="211" column="32" />
-        <mark key="^" line="211" column="32" />
-        <mark key="." line="211" column="32" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.ts" timestamp="1525172024646">
+        <mark key="a" line="126" column="33" />
+        <mark key="'" line="234" column="24" />
+        <mark key="[" line="126" column="37" />
+        <mark key="]" line="127" column="33" />
+        <mark key="^" line="127" column="33" />
+        <mark key="." line="127" column="33" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" timestamp="1525086020361">
         <mark key="'" line="60" column="14" />
@@ -332,6 +327,9 @@
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1525969221579">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/base/navbar/navbar.component.html" timestamp="1520155442942">
         <mark key="[" line="18" column="83" />
@@ -439,6 +437,12 @@
         <mark key="." line="28" column="29" />
         <mark key="^" line="24" column="42" />
       </file>
+      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_authentication.py" timestamp="1525969210876">
+        <mark key="[" line="292" column="48" />
+        <mark key="]" line="292" column="48" />
+        <mark key="." line="292" column="48" />
+        <mark key="^" line="292" column="48" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/auth/forgot-password/forgot-password.component.css" timestamp="1520107752196">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -447,16 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="368" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="371" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="228" column="13" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/tests/test_statistics.py" />
-      <jump line="179" column="35" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="71" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="64" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="58" column="42" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="62" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="60" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
       <jump line="150" column="19" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="90" column="32" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="219" column="28" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
@@ -547,61 +541,71 @@
       <jump line="6" column="39" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" />
       <jump line="8" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" />
       <jump line="128" column="8" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" />
+      <jump line="31" column="37" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" />
+      <jump line="116" column="35" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/commodity-statistics/commodity-statistics.component.html" />
+      <jump line="266" column="27" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" />
+      <jump line="223" column="8" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" />
+      <jump line="429" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/models.py" />
+      <jump line="262" column="23" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" />
+      <jump line="10" column="61" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" />
+      <jump line="264" column="75" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" />
+      <jump line="0" column="36" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" />
+      <jump line="421" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>15</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvZykK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>15</text>
+        <text>user_id</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>header-form</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgIDxkaXYgZnhMYXlvdXQ9ImNvbHVtbiIKICAgICAgICAgICAgICAgICBmeExheW91dC5ndC1zbT0icm93IgogICAgICAgICAgICAgICAgIGZ4TGF5b3V0QWxpZ249InNwYWNlLWJldHdlZW4gc3RyZXRjaCIKICAgICAgICAgICAgICAgICBmeExheW91dEFsaWduLmd0LXNtPSJzcGFjZS1iZXR3ZWVuIGNlbnRlciI+</text>
+        <text encoding="base64">CiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwocmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMSkKICAgICAgICAgICAgdG9rZW4gPSBkYXRhWydhdXRoX3Rva2VuJ10KICAgICAgICAgICAgbG9naW5fcmVzcG9uc2UsIGxvZ2luX2RhdGEgPSBzZWxmLmxvZ2luX3VzZXIodGMsICoqc2VsZi5leGFtcGxlX3VzZXIpCiAgICAgICAgICAgIHNlbGYuYXNzZXJ0RXF1YWwobG9naW5fcmVzcG9uc2Uuc3RhdHVzX2NvZGUsIDIwMCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KGxvZykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwhLS08ZGl2IGNsYXNzPSJ0b29sYmFyLWNhcmQtaGVhZGVyIiBmeExheW91dD0icm93IiBmeExheW91dEFsaWduPSJzcGFjZS1iZXR3ZWVuIj4tLT4K</text>
+        <text encoding="base64">ICAgIGlkIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luX2NvdW50cnlfaWQ6IHRoaXMuc2VsZWN0ZWRDb3VudHJ5LmlkLAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJzLmFwcGVuZChkZXN0aW5hdGlvbl9jb3VudHJ5LmlkICE9ICkK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBpZiAodGhpcy5zZWxlY3RlZEdyYXBoUG9ydCkgewogICAgICBwYXJhbXMub3JpZ2luX3BvcnRfaWQgPSB0aGlzLnNlbGVjdGVkR3JhcGhQb3J0LmlkOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBmeExheW91dEFsaWduLmd0LW1kPSJzcGFjZS1iZXR3ZWVuIHN0cmV0Y2giCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICBpZiAodGhpcy5zZWxlY3RlZEdyYXBoQ291bnRyeSkgewogICAgICBwYXJhbXMuZGVzdGluYXRpb25fY291bnRyeV9pZCA9IHRoaXMuc2VsZWN0ZWRHcmFwaENvdW50cnkuaWQ7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBmeExheW91dC5ndC1tZD0icm93Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3JpZ2luX2NvdW50cnlfaWQ6IHRoaXMuc2VsZWN0ZWRDb3VudHJ5LmlkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLm9yaWdpbl9jb3VudHJ5X2lkID0gdGhpcy5zZWxlY3RlZENvdW50cnkuaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>header-form</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>header-form</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -609,7 +613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updateStatus</entry>
         <entry>console</entry>
         <entry>orientation</entry>
         <entry>alpha</entry>
@@ -629,15 +632,9 @@
         <entry>export</entry>
         <entry>placeholder</entry>
         <entry>title</entry>
+        <entry>header-form</entry>
       </history-search>
       <history-cmd>
-        <entry>120</entry>
-        <entry>150</entry>
-        <entry>61</entry>
-        <entry>90</entry>
-        <entry>%s/Berth/VesselType/gc</entry>
-        <entry>%s/berth/VesselType/gc</entry>
-        <entry>%s/berth/vesselType/gc</entry>
         <entry>%s/operationService/vesselTypeService/g</entry>
         <entry>%s/Berth/VesselType/g</entry>
         <entry>qw</entry>
@@ -650,6 +647,13 @@
         <entry>94</entry>
         <entry>130</entry>
         <entry>161</entry>
+        <entry>15</entry>
+        <entry>55</entry>
+        <entry>36</entry>
+        <entry>18</entry>
+        <entry>430</entry>
+        <entry>258</entry>
+        <entry>284</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
