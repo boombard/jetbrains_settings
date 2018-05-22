@@ -64,6 +64,9 @@
         <mark key="." line="133" column="66" />
         <mark key="^" line="133" column="66" />
       </file>
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/templates/new_da.html" timestamp="1526984002018">
+        <mark key="a" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port-weather/port-weather.component.css" timestamp="1518695311455">
         <mark key="[" line="12" column="10" />
         <mark key="]" line="12" column="11" />
@@ -104,11 +107,13 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" timestamp="1526319824291">
-        <mark key="[" line="879" column="30" />
-        <mark key="]" line="879" column="33" />
-        <mark key="." line="879" column="33" />
-        <mark key="^" line="879" column="33" />
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" timestamp="1526984115684">
+        <mark key="a" line="220" column="12" />
+        <mark key="'" line="220" column="17" />
+        <mark key="[" line="206" column="57" />
+        <mark key="]" line="206" column="63" />
+        <mark key="." line="206" column="63" />
+        <mark key="^" line="206" column="63" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.ts" timestamp="1526932734628">
         <mark key="'" line="98" column="19" />
@@ -266,9 +271,9 @@
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1526979298788">
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1526984186342">
         <mark key="a" line="1375" column="75" />
-        <mark key="'" line="1906" column="0" />
+        <mark key="'" line="613" column="12" />
         <mark key="[" line="1913" column="55" />
         <mark key="]" line="1914" column="15" />
         <mark key="." line="1914" column="15" />
@@ -532,11 +537,13 @@
         <mark key="." line="482" column="46" />
         <mark key="^" line="482" column="46" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" timestamp="1526302970208">
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" timestamp="1526983999730">
+        <mark key="a" line="135" column="23" />
+        <mark key="'" line="133" column="6" />
+        <mark key="[" line="136" column="46" />
+        <mark key="]" line="136" column="53" />
+        <mark key="." line="136" column="53" />
+        <mark key="^" line="136" column="53" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/port-call.service.ts" timestamp="1520274145235">
         <mark key="[" line="41" column="53" />
@@ -544,8 +551,8 @@
         <mark key="^" line="41" column="53" />
         <mark key="." line="41" column="53" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/Gruntfile.js" timestamp="1526304318720">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/software/lbh_berthtrack/Gruntfile.js" timestamp="1526982224245">
+        <mark key="'" line="55" column="20" />
       </file>
       <file name="$USER_HOME$/software/lbh_berthtrack/base_app/sentifront/examples/app_template/manage.py" timestamp="1526302152261">
         <mark key="[" line="11" column="5" />
@@ -585,6 +592,14 @@
       <file name="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" timestamp="1522412705212">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" timestamp="1526984636909">
+        <mark key="a" line="441" column="35" />
+        <mark key="'" line="440" column="45" />
+        <mark key="[" line="441" column="48" />
+        <mark key="]" line="441" column="66" />
+        <mark key="^" line="441" column="66" />
+        <mark key="." line="441" column="66" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/angular.json" timestamp="1526941999159">
         <mark key="'" line="93" column="33" />
         <mark key="[" line="93" column="34" />
@@ -613,8 +628,10 @@
       <file name="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" timestamp="1526935954325">
         <mark key="'" line="942" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526982156091">
+      <file name="/Dummy.txt" timestamp="1526986287446">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/berth-admin/berth-admin.component.ts" timestamp="1523877089342">
         <mark key="'" line="80" column="0" />
@@ -709,28 +726,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="412" column="25" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="3" column="5" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="6" column="21" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="7" column="7" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="19" column="46" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="23" column="40" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="26" column="23" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="27" column="37" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="30" column="27" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="31" column="13" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="33" column="36" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="34" column="29" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="35" column="11" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="37" column="34" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="82" column="24" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
-      <jump line="32" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" />
-      <jump line="143" column="24" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-graph/dataframe-graph.component.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.html" />
-      <jump line="563" column="2" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="559" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="588" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="585" column="1" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
@@ -809,61 +804,83 @@
       <jump line="2" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
       <jump line="7" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
       <jump line="14" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="55" column="20" filename="$USER_HOME$/software/lbh_berthtrack/Gruntfile.js" />
+      <jump line="758" column="24" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="115" column="16" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="208" column="37" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="220" column="17" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="1565" column="4" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="135" column="23" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" />
+      <jump line="133" column="6" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" />
+      <jump line="2201" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="503" column="4" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="613" column="12" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="241" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="435" column="88" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="549" column="62" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="552" column="62" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="82" column="74" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="44" column="16" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="440" column="53" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="80" column="99" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="186" column="72" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="210" column="40" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
+      <jump line="439" column="45" filename="$USER_HOME$/software/lbh_berthtrack/base_app/static/controllers/pc_basic.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQudGFyaWZmX2RhdGUKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmRlcGFydHVyZS5kYXRlKCkKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmFycml2YWwuZGF0ZSgp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cG9zdGdyZXMK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>year</text>
+        <text>when vessel entered / will enter port</text>
       </register>
       <register name="/" type="4">
-        <text>year</text>
+        <text>entered</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQudGFyaWZmX2RhdGUKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmRlcGFydHVyZS5kYXRlKCkKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmFycml2YWwuZGF0ZSgp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncm93bC5lcnJvcignUGxlYXNlIHNlbGVjdCBEZXBhcnR1cmUgYmVmb3JlIGNyZWF0aW5nIERBJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC9iaS1jb21wb25lbnRzL2Nob3JvcGxldGgvKioiCg==</text>
+        <text encoding="base64">cG9zdGdyZXMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGVsZW1lbnQ6IHRoaXMubWFwQ29udGFpbmVyLm5hdGl2ZUVsZW1lbnQsCiAgICAgIGFzcGVjdFJhdGlvOiAwLjksCiAgICAgIHByb2plY3Rpb246ICdtZXJjYXRvcicsCiAgICAgIGZpbGxzOiB7CiAgICAgICAgZGVmYXVsdEZpbGw6ICcjRjVGNUY1JywKICAgICAgfSwKICAgICAgZGF0YTogdGhpcy50cmFuc2Zvcm1lZERhdGEsCiAgICAgIGdlb2dyYXBoeUNvbmZpZzogewogICAgICAgIGJvcmRlckNvbG9yOiAnI0RFREVERScsCiAgICAgICAgaGlnaGxpZ2h0Qm9yZGVyV2lkdGg6IDIsCiAgICAgICAgaGlnaGxpZ2h0RmlsbENvbG9yOiAoZ2VvKSA9PiBnZW9bJ2ZpbGxDb2xvciddIHx8ICcjRjVGNUY1JywKICAgICAgICBoaWdobGlnaHRCb3JkZXJDb2xvcjogJyNCN0I3QjcnLAogICAgICAgIHBvcHVwVGVtcGxhdGU6IChnZW8sIGRhdGEpID0+IHsKICAgICAgICAgIC8vIGlmICghZGF0YSkgeyByZXR1cm47IH0KICAgICAgICAgIGxldCB2YWx1ZSA9IGRhdGEgPyBkYXRhLnZhbHVlIDogMDsKICAgICAgICAgIHZhbHVlID0gdmFsdWUudG9Mb2NhbGVTdHJpbmcoJ2VuLVVTJywge21heGltdW1GcmFjdGlvbkRpZ2l0czogMn0pOwogICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJzxkaXYgY2xhc3M9ImhvdmVyaW5mbyI+JywKICAgICAgICAgICAgJzxzdHJvbmc+JywgZ2VvLnByb3BlcnRpZXMubmFtZSwgJzwvc3Ryb25nPicsCiAgICAgICAgICAgICc8YnI+JywgdGhpcy52YWx1ZUxhYmVsLCAnOiA8c3Ryb25nPicsIHZhbHVlLCAnPC9zdHJvbmc+JywKICAgICAgICAgICAgJzwvZGl2PicKICAgICAgICAgIF0uam9pbignJyk7CiAgICAgICAgfQogICAgICB9LAogICAgICBkb25lOiBmdW5jdGlvbihkYXRhbWFwKSB7CiAgICAgICAgZGF0YW1hcC5zdmcuY2FsbChkMy5iZWhhdmlvci56b29tKCkub24oJ3pvb20nLCByZWRyYXcpKTsKCiAgICAgICAgZnVuY3Rpb24gcmVkcmF3KCkgewogICAgICAgICAgZGF0YW1hcC5zdmcuc2VsZWN0QWxsKCdnJykuYXR0cigndHJhbnNmb3JtJywgJ3RyYW5zbGF0ZSgnICsgZDMuZXZlbnQudHJhbnNsYXRlICsgJylzY2FsZSgnICsgZDMuZXZlbnQuc2NhbGUgKyAnKScpOwogICAgICAgIH0KICAgICAgfQogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC9iaS1jb21wb25lbnRzL2Nob3JvcGxldGgvKioiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC9iaS1jb21wb25lbnRzL2Nob3JvcGxldGgvKi50cyIK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CiAgImNsaU9wdGlvbnMiOiB7CiAgICAiZXhjbHVkZSI6IFsKICAgICAgInNyYy9hcHAvYmktY29tcG9uZW50cy9jaG9yb3BsZXRoLyoudHMiCiAgICBdCiAgfSw=</text>
+        <text encoding="base64">IGVsZW1lbnQ6IHRoaXMubWFwQ29udGFpbmVyLm5hdGl2ZUVsZW1lbnQsCiAgICAgIGFzcGVjdFJhdGlvOiAwLjksCiAgICAgIHByb2plY3Rpb246ICdtZXJjYXRvcicsCiAgICAgIGZpbGxzOiB7CiAgICAgICAgZGVmYXVsdEZpbGw6ICcjRjVGNUY1JywKICAgICAgfSwKICAgICAgZGF0YTogdGhpcy50cmFuc2Zvcm1lZERhdGEsCiAgICAgIGdlb2dyYXBoeUNvbmZpZzogewogICAgICAgIGJvcmRlckNvbG9yOiAnI0RFREVERScsCiAgICAgICAgaGlnaGxpZ2h0Qm9yZGVyV2lkdGg6IDIsCiAgICAgICAgaGlnaGxpZ2h0RmlsbENvbG9yOiAoZ2VvKSA9PiBnZW9bJ2ZpbGxDb2xvciddIHx8ICcjRjVGNUY1JywKICAgICAgICBoaWdobGlnaHRCb3JkZXJDb2xvcjogJyNCN0I3QjcnLAogICAgICAgIHBvcHVwVGVtcGxhdGU6IChnZW8sIGRhdGEpID0+IHsKICAgICAgICAgIC8vIGlmICghZGF0YSkgeyByZXR1cm47IH0KICAgICAgICAgIGxldCB2YWx1ZSA9IGRhdGEgPyBkYXRhLnZhbHVlIDogMDsKICAgICAgICAgIHZhbHVlID0gdmFsdWUudG9Mb2NhbGVTdHJpbmcoJ2VuLVVTJywge21heGltdW1GcmFjdGlvbkRpZ2l0czogMn0pOwogICAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgJzxkaXYgY2xhc3M9ImhvdmVyaW5mbyI+JywKICAgICAgICAgICAgJzxzdHJvbmc+JywgZ2VvLnByb3BlcnRpZXMubmFtZSwgJzwvc3Ryb25nPicsCiAgICAgICAgICAgICc8YnI+JywgdGhpcy52YWx1ZUxhYmVsLCAnOiA8c3Ryb25nPicsIHZhbHVlLCAnPC9zdHJvbmc+JywKICAgICAgICAgICAgJzwvZGl2PicKICAgICAgICAgIF0uam9pbignJyk7CiAgICAgICAgfQogICAgICB9LAogICAgICBkb25lOiBmdW5jdGlvbihkYXRhbWFwKSB7CiAgICAgICAgZGF0YW1hcC5zdmcuY2FsbChkMy5iZWhhdmlvci56b29tKCkub24oJ3pvb20nLCByZWRyYXcpKTsKCiAgICAgICAgZnVuY3Rpb24gcmVkcmF3KCkgewogICAgICAgICAgZGF0YW1hcC5zdmcuc2VsZWN0QWxsKCdnJykuYXR0cigndHJhbnNmb3JtJywgJ3RyYW5zbGF0ZSgnICsgZDMuZXZlbnQudHJhbnNsYXRlICsgJylzY2FsZSgnICsgZDMuZXZlbnQuc2NhbGUgKyAnKScpOwogICAgICAgIH0KICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJAdHlwZXMvZ2VvanNvbiI6ICJeNzk0Ni4wLjMiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC9iaS1jb21wb25lbnRzL2Nob3JvcGxldGgvKi50cyIK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgImNsaU9wdGlvbnMiOiB7CiAgICAiZXhjbHVkZSI6IFsKICAgICAgInNyYy9hcHAvYmktY29tcG9uZW50cy9jaG9yb3BsZXRoLyoudHMiCiAgICBdCiAgfSw=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJAdHlwZXMvZ2VvanNvbiI6ICJeNzk0Ni4wLjMiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgLy8gR2V0IHRoZSBtb250aCBmb3JtYXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>year</last-search>
+      <last-search>entered</last-search>
       <last-offset />
-      <last-pattern>year</last-pattern>
+      <last-pattern>entered</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -871,12 +888,6 @@
     </search>
     <history>
       <history-search>
-        <entry>NgP</entry>
-        <entry>close</entry>
-        <entry>setMonth</entry>
-        <entry>strict</entry>
-        <entry>date</entry>
-        <entry>berthId</entry>
         <entry>getPort</entry>
         <entry>type</entry>
         <entry>ts</entry>
@@ -891,9 +902,14 @@
         <entry>exclude</entry>
         <entry>lint</entry>
         <entry>year</entry>
+        <entry>serve</entry>
+        <entry>serv</entry>
+        <entry>tariff_year</entry>
+        <entry>vessel_entered_port</entry>
+        <entry>grt</entry>
+        <entry>entered</entry>
       </history-search>
       <history-cmd>
-        <entry>60</entry>
         <entry>29</entry>
         <entry>299</entry>
         <entry>13</entry>
@@ -912,6 +928,7 @@
         <entry>56</entry>
         <entry>567</entry>
         <entry>q</entry>
+        <entry>209</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
