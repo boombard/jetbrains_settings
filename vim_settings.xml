@@ -14,12 +14,12 @@
         <mark key="]" line="301" column="38" />
         <mark key="." line="272" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" timestamp="1526815583432">
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" timestamp="1526822770139">
         <mark key="'" line="33" column="22" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="12" />
-        <mark key="." line="34" column="12" />
-        <mark key="^" line="26" column="33" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="48" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/definition-edit-dialog/definition-edit-dialog.component.ts" timestamp="1523880093203">
         <mark key="'" line="59" column="0" />
@@ -263,8 +263,8 @@
         <mark key="." line="1966" column="55" />
         <mark key="^" line="1389" column="28" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1523867992069">
-        <mark key="'" line="33" column="14" />
+      <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1526822226511">
+        <mark key="'" line="10" column="19" />
         <mark key="[" line="7" column="22" />
         <mark key="]" line="7" column="52" />
         <mark key="^" line="7" column="52" />
@@ -539,9 +539,16 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" timestamp="1526021687369">
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" timestamp="1526822930432">
+        <mark key="a" line="576" column="0" />
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="0" />
+        <mark key="." line="583" column="0" />
+      </file>
+      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" timestamp="1526815768314">
         <mark key="a" line="116" column="79" />
-        <mark key="'" line="121" column="2" />
+        <mark key="'" line="159" column="10" />
         <mark key="[" line="118" column="29" />
         <mark key="]" line="119" column="3" />
         <mark key="." line="119" column="3" />
@@ -667,41 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.ts" />
-      <jump line="138" column="3" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="135" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="131" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="126" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="116" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="86" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="53" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="40" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="38" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="46" column="2" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.ts" />
-      <jump line="26" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.ts" />
-      <jump line="6" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="54" column="11" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="47" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="21" column="1" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="69" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="46" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="41" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="36" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="44" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="113" column="2" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="127" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="121" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="119" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="114" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="48" column="2" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="98" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.html" />
       <jump line="56" column="5" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.html" />
       <jump line="62" column="8" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/line-up/line-up.component.ts" />
@@ -767,61 +739,96 @@
       <jump line="9" column="13" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="493" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
       <jump line="34" column="22" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" />
+      <jump line="449" column="11" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="29" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="36" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="46" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="61" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="3" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" />
+      <jump line="89" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" />
+      <jump line="80" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" />
+      <jump line="79" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" />
+      <jump line="159" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-statistics/port-statistics.component.ts" />
+      <jump line="65" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="382" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="671" column="41" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="236" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="237" column="13" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="220" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="221" column="13" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="228" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="229" column="13" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="305" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="84" column="22" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="145" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="400" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="42" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="49" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="59" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="74" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="87" column="17" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="572" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="26" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
+      <jump line="10" column="19" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIENoZWNrIGlmIG5ldwo=</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>any</text>
       </register>
       <register name="/" type="4">
-        <text>departure</text>
+        <text>material</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIGRhdGUgPSBzZWxmLmRpc2J1cnNlbWVudF9hY2NvdW50LnRhcmlmZl9kYXRlCiAgICAgICAgaWYgZGF0ZSBpcyBOb25lOgogICAgICAgICAgICBkYXRlID0gc2VsZi5kaXNidXJzZW1lbnRfYWNjb3VudC5wb3J0X2NhbGxfcGFydHkucG9ydGNhbGwuZGVwYXJ0dXJlLmRhdGUoKQogICAgICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICAgICAgZGF0ZSA9IHNlbGYuZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmFycml2YWwuZGF0ZSgpCiAgICAgICAgbG9va3VwX2RhdGUgPSBkYi5zZXNzaW9uLnF1ZXJ5KENvc3RMb29rVXAuZGF0ZV92YWxpZCkgXAogICAgICAgICAgICAuZmlsdGVyKENvc3RMb29rVXAuY29zdF9jYXRlZ29yeV9pZCA9PSBzZWxmLmNvc3RfY2F0ZWdvcnlfaWQpIFwKICAgICAgICAgICAgLmZpbHRlcihDb3N0TG9va1VwLmRhdGVfdmFsaWQgPCBkYXRlKSBcCiAgICAgICAgICAgIC5vcmRlcl9ieShDb3N0TG9va1VwLmRhdGVfdmFsaWQuZGVzYygpKSBcCiAgICAgICAgICAgIC5maXJzdCgpCiAgICAgICAgaWYgbm90IGxvb2t1cF9kYXRlOgogICAgICAgICAgICAjIFRoZXJlIGFyZSBubyBsb29rdXAgZGF0ZXMgZWFybGllciB0aGFuIHRoaXMgb25lLiBUYWtlIHRoZSBsYXRlc3QKICAgICAgICAgICAgbG9va3VwX2RhdGUgPSBkYi5zZXNzaW9uLnF1ZXJ5KENvc3RMb29rVXAuZGF0ZV92YWxpZCkgXAogICAgICAgICAgICAgICAgLmZpbHRlcihDb3N0TG9va1VwLmNvc3RfY2F0ZWdvcnlfaWQgPT0gc2VsZi5jb3N0X2NhdGVnb3J5X2lkKSBcCiAgICAgICAgICAgICAgICAub3JkZXJfYnkoQ29zdExvb2tVcC5kYXRlX3ZhbGlkLmRlc2MoKSkgXAogICAgICAgICAgICAgICAgLmZpcnN0KCkKICAgICAgICByZXR1cm4gbG9va3VwX2RhdGVbMF0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIENoZWNrIGlmIG5ldwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgPG1hdC1mb3JtLWZpZWxkID4KICAgICAgICAgIDxtYXQtc2VsZWN0IChjaGFuZ2UpPSJzZXRCZXJ0aElkKCRldmVudCkiIHBsYWNlaG9sZGVyPSJGaWx0ZXIgQmVydGgiICNmaWx0ZXJCZXJ0aFNlbGVjdD4KICAgICAgICAgICAgPG1hdC1vcHRpb24+QWxsPC9tYXQtb3B0aW9uPgogICAgICAgICAgICA8bWF0LW9wdGlvbiAqbmdGb3I9ImxldCBiZXJ0aCBvZiBiZXJ0aHMiCiAgICAgICAgICAgICAgICAgICAgICAgIFt2YWx1ZV09ImJlcnRoLmlkIj4KICAgICAgICAgICAgICB7eyBiZXJ0aC5uYW1lIH19CiAgICAgICAgICAgIDwvbWF0LW9wdGlvbj4KICAgICAgICAgIDwvbWF0LXNlbGVjdD4KICAgICAgICA8L21hdC1mb3JtLWZpZWxkPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGV2ZW50KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDwhLS1bKG5nTW9kZWwpXT0ibW9udGhGaWx0ZXIiLS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtYXQK</text>
+        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3YK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGlmIG5vdCBsb29rdXBfZGF0ZToKICAgICAgICAjIFRoZXJlIGFyZSBubyBsb29rdXAgZGF0ZXMgZWFybGllciB0aGFuIHRoaXMgb25lLiBUYWtlIHRoZSBsYXRlc3QKICAgICAgICBsb29rdXBfZGF0ZSA9IGRiLnNlc3Npb24ucXVlcnkoQ29zdExvb2tVcC5kYXRlX3ZhbGlkKSBcCiAgICAgICAgICAgIC5maWx0ZXIoQ29zdExvb2tVcC5jb3N0X2NhdGVnb3J5X2lkID09IHNlbGYuY29zdF9jYXRlZ29yeV9pZCkgXAogICAgICAgICAgICAub3JkZXJfYnkoQ29zdExvb2tVcC5kYXRlX3ZhbGlkLmRlc2MoKSkgXAogICAgICAgICAgICAuZmlyc3QoKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBleHBvcnQgY29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IAogICAgbG9va3VwX2RhdGUgPSBkYi5zZXNzaW9uLnF1ZXJ5KENvc3RMb29rVXAuZGF0ZV92YWxpZCkgXAogICAgICAgIC5maWx0ZXIoQ29zdExvb2tVcC5jb3N0X2NhdGVnb3J5X2lkID09IHNlbGYuY29zdF9jYXRlZ29yeV9pZCkgXAogICAgICAgIC5maWx0ZXIoQ29zdExvb2tVcC5kYXRlX3ZhbGlkIDwgZGF0ZSkgXAogICAgICAgIC5vcmRlcl9ieShDb3N0TG9va1VwLmRhdGVfdmFsaWQuZGVzYygpKSBcCiAgICAgICAgLmZpcnN0KCk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFttYXREYXRlcGlja2VyXT0ibW9udGhQaWNrZXIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvb2t1cF9kYXRlcyA9IHNvcnRlZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>26</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>departure</last-search>
+      <last-search>material</last-search>
       <last-offset />
-      <last-pattern>departure</last-pattern>
+      <last-pattern>material</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -829,11 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>header-form</entry>
-        <entry>authService</entry>
-        <entry>login</entry>
-        <entry>Service</entry>
-        <entry>Log</entry>
         <entry>ip_address</entry>
         <entry>post</entry>
         <entry>print</entry>
@@ -849,6 +851,11 @@
         <entry>dateutil</entry>
         <entry>tariff_year</entry>
         <entry>departure</entry>
+        <entry>date</entry>
+        <entry>form</entry>
+        <entry>Form</entry>
+        <entry>constructor</entry>
+        <entry>material</entry>
       </history-search>
       <history-cmd>
         <entry>284</entry>
@@ -866,11 +873,11 @@
         <entry>40</entry>
         <entry>1871</entry>
         <entry>1393</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>37</entry>
         <entry encoding="base64">JzwsJz4yNw==</entry>
         <entry>26</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
