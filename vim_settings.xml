@@ -266,13 +266,13 @@
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1526323715299">
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1526979298788">
         <mark key="a" line="1375" column="75" />
-        <mark key="'" line="1373" column="4" />
-        <mark key="[" line="1373" column="4" />
-        <mark key="]" line="1389" column="29" />
-        <mark key="." line="1966" column="55" />
-        <mark key="^" line="1389" column="28" />
+        <mark key="'" line="1906" column="0" />
+        <mark key="[" line="1913" column="55" />
+        <mark key="]" line="1914" column="15" />
+        <mark key="." line="1914" column="15" />
+        <mark key="^" line="1914" column="15" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1526939109510">
         <mark key="'" line="38" column="5" />
@@ -386,12 +386,13 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" timestamp="1526324386678">
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" timestamp="1526980956007">
+        <mark key="a" line="26" column="20" />
         <mark key="'" line="14" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+        <mark key="[" line="23" column="75" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-map-navigation/port-map-navigation.component.ts" timestamp="1526941345914">
         <mark key="'" line="8" column="50" />
@@ -612,6 +613,9 @@
       <file name="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" timestamp="1526935954325">
         <mark key="'" line="942" column="32" />
       </file>
+      <file name="/Dummy.txt" timestamp="1526982156091">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/berth-admin/berth-admin.component.ts" timestamp="1523877089342">
         <mark key="'" line="80" column="0" />
         <mark key="[" line="20" column="0" />
@@ -705,18 +709,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="9" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
-      <jump line="16" column="46" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
-      <jump line="433" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
-      <jump line="434" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
-      <jump line="10" column="9" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" />
-      <jump line="96" column="19" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.ts" />
-      <jump line="577" column="25" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="490" column="10" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="573" column="22" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="593" column="2" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="35" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
-      <jump line="230" column="27" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/port_calls.py" />
       <jump line="112" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" />
       <jump line="412" column="25" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
       <jump line="0" column="0" filename="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" />
@@ -805,25 +797,37 @@
       <jump line="98" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
       <jump line="100" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
       <jump line="93" column="33" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
+      <jump line="19" column="20" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="21" column="53" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="211" column="17" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="197" column="37" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="1895" column="49" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="1897" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="1905" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
+      <jump line="190" column="59" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">CiAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQudGFyaWZmX2RhdGUKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmRlcGFydHVyZS5kYXRlKCkKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmFycml2YWwuZGF0ZSgp</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>year</text>
       </register>
       <register name="/" type="4">
-        <text>lint</text>
+        <text>year</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIERlcHJlY2F0ZWQK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQudGFyaWZmX2RhdGUKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmRlcGFydHVyZS5kYXRlKCkKICAgIGlmIGRhdGUgaXMgTm9uZToKICAgICAgICBkYXRlID0gZGlzYnVyc2VtZW50X2FjY291bnQucG9ydF9jYWxsX3BhcnR5LnBvcnRjYWxsLmFycml2YWwuZGF0ZSgp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAic3JjL2FwcC9iaS1jb21wb25lbnRzL2Nob3JvcGxldGgvKioiCg==</text>
@@ -853,13 +857,13 @@
         <text encoding="base64">CiAgLy8gR2V0IHRoZSBtb250aCBmb3JtYXQK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lint</last-search>
+      <last-search>year</last-search>
       <last-offset />
-      <last-pattern>lint</last-pattern>
+      <last-pattern>year</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -867,7 +871,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ngp</entry>
         <entry>NgP</entry>
         <entry>close</entry>
         <entry>setMonth</entry>
@@ -887,6 +890,7 @@
         <entry>cli</entry>
         <entry>exclude</entry>
         <entry>lint</entry>
+        <entry>year</entry>
       </history-search>
       <history-cmd>
         <entry>60</entry>
@@ -907,8 +911,8 @@
         <entry>12</entry>
         <entry>56</entry>
         <entry>567</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
