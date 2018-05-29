@@ -140,6 +140,13 @@
         <mark key="." line="49" column="55" />
         <mark key="^" line="49" column="49" />
       </file>
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" timestamp="1527587671953">
+        <mark key="'" line="152" column="25" />
+        <mark key="[" line="206" column="57" />
+        <mark key="]" line="206" column="75" />
+        <mark key="." line="206" column="75" />
+        <mark key="^" line="206" column="75" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.ts" timestamp="1526932734628">
         <mark key="'" line="98" column="19" />
         <mark key="[" line="38" column="46" />
@@ -320,13 +327,13 @@
         <mark key="]" line="11" column="79" />
         <mark key="." line="11" column="79" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1526990543044">
+      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" timestamp="1527626617936">
         <mark key="a" line="1375" column="75" />
-        <mark key="'" line="2223" column="0" />
-        <mark key="[" line="1913" column="55" />
-        <mark key="]" line="1914" column="15" />
-        <mark key="." line="1914" column="15" />
-        <mark key="^" line="1914" column="15" />
+        <mark key="'" line="2222" column="0" />
+        <mark key="[" line="1631" column="0" />
+        <mark key="]" line="1631" column="0" />
+        <mark key="." line="1631" column="0" />
+        <mark key="^" line="1913" column="15" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/package.json" timestamp="1527007457839">
         <mark key="'" line="50" column="21" />
@@ -411,9 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1912" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="1913" column="22" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="2155" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
       <jump line="2156" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
       <jump line="2187" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
       <jump line="2188" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
@@ -511,61 +515,64 @@
       <jump line="65" column="9" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
       <jump line="68" column="25" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
       <jump line="50" column="21" filename="$USER_HOME$/software/lbh-mis-frontend/package.json" />
+      <jump line="395" column="33" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="88" column="42" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="152" column="25" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>arrival</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>new_da</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbGlmIHJlY2lwaWVudCA9PSAnUG9ydCc6CiAgICAgICAgICAgIGxvb2t1cC5kYXRlX3ZhbGlkID0gJyVkLTA0LTAxJyAlIGxvb2t1cC55ZWFyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiLi8iLAo=</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInNvdXJjZVJvb3QiOiAiIiwK</text>
+        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiLi8iLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ3RleHQveC10eXBlc2NyaXB0JzogWyd0cycsICd0c3gnXSwK</text>
+        <text encoding="base64">ICAgICAgInNvdXJjZVJvb3QiOiAiIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICJub2RlX21vZHVsZXMvY29sb3IvaW5kZXguanMiCg==</text>
+        <text encoding="base64">ICAgICAgJ3RleHQveC10eXBlc2NyaXB0JzogWyd0cycsICd0c3gnXSwK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICJub2RlX21vZHVsZXMvY29sb3IvaW5kZXguanMiCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICJub2RlX21vZHVsZXMvY29sb3IvaW5kZXguanMiCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgJ2Jyb3dzZXJpZnknCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICBwcmVwcm9jZXNzb3JzOiB7CiAgICAgICdzcmMvYXBwLyoqLyoqLmpzJzogWydicm93c2VyaWZ5J10KICAgIH0s</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>new_da</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>new_da</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -573,7 +580,6 @@
     </search>
     <history>
       <history-search>
-        <entry>year</entry>
         <entry>serve</entry>
         <entry>serv</entry>
         <entry>tariff_year</entry>
@@ -593,6 +599,7 @@
         <entry>protractor</entry>
         <entry>exclude</entry>
         <entry>test</entry>
+        <entry>new_da</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
