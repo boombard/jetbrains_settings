@@ -160,11 +160,11 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549610370384">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549614499167">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="17" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" timestamp="1520702209074">
         <mark key="'" line="7" column="17" />
@@ -529,14 +529,14 @@
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>arrival</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>new_da</text>
