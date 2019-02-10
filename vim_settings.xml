@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/port-admin/port-admin.component.html" timestamp="1520256782132">
-        <mark key="'" line="2" column="42" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" timestamp="1526900885350">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="27" column="43" />
+      </file>
+      <file name="/a.dummy" timestamp="1549810126723">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/definition-edit-dialog/definition-edit-dialog.component.ts" timestamp="1523880093203">
         <mark key="'" line="59" column="0" />
@@ -89,6 +89,12 @@
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/sorting.py" timestamp="1549734290033">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="29" />
+        <mark key="." line="70" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/statistics.py" timestamp="1526898992437">
         <mark key="a" line="206" column="12" />
         <mark key="'" line="82" column="24" />
@@ -104,6 +110,13 @@
         <mark key="." line="21" column="50" />
         <mark key="^" line="21" column="50" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/fibonacci.py" timestamp="1549804676789">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="26" column="34" />
+        <mark key="]" line="26" column="36" />
+        <mark key="^" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/port_calls.py" timestamp="1526899014097">
         <mark key="'" line="235" column="27" />
         <mark key="[" line="74" column="68" />
@@ -111,14 +124,18 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/admin-table/admin-table.component.ts" timestamp="1520261167478">
-        <mark key="'" line="66" column="2" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/tsconfig.json" timestamp="1527007618146">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="4" column="19" />
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/software/interview_templates/search.py" timestamp="1549822693307">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/app.module.ts" timestamp="1526851740154">
         <mark key="a" line="5" column="0" />
@@ -136,9 +153,6 @@
         <mark key="^" line="67" column="32" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/manage.py" timestamp="1526987129722">
-        <mark key="'" line="13" column="13" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/extensions.py" timestamp="1520700967859">
         <mark key="'" line="18" column="8" />
         <mark key="[" line="49" column="49" />
@@ -153,12 +167,25 @@
         <mark key="." line="206" column="75" />
         <mark key="^" line="206" column="75" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/binary_search.py" timestamp="1549809782700">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="17" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/dataframe-bar-graph/dataframe-bar-graph.component.ts" timestamp="1526932734628">
         <mark key="'" line="98" column="19" />
         <mark key="[" line="38" column="46" />
         <mark key="]" line="38" column="68" />
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
+      </file>
+      <file name="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" timestamp="1549803770414">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="18" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549614499167">
         <mark key="[" line="8" column="16" />
@@ -173,9 +200,6 @@
         <mark key="." line="39" column="53" />
         <mark key="^" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/locations.py" timestamp="1520627672338">
-        <mark key="'" line="186" column="0" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/authentication.py" timestamp="1526032736401">
         <mark key="a" line="454" column="39" />
         <mark key="'" line="269" column="0" />
@@ -189,9 +213,6 @@
         <mark key="]" line="18" column="53" />
         <mark key="." line="18" column="53" />
         <mark key="^" line="18" column="53" />
-      </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/Gruntfile.js" timestamp="1526982224245">
-        <mark key="'" line="55" column="20" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/karma.conf.js" timestamp="1527005816894">
         <mark key="[" line="21" column="56" />
@@ -250,9 +271,6 @@
         <mark key="^" line="148" column="15" />
         <mark key="." line="148" column="15" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/package-lock.json" timestamp="1522412705212">
-        <mark key="'" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/user-log.service.ts" timestamp="1526806980125">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="13" column="18" />
@@ -282,9 +300,6 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/berth-edit-dialog/berth-edit-dialog.component.ts" timestamp="1523877450713">
-        <mark key="'" line="184" column="0" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/vessel-type-edit-dialog/vessel-type-edit-dialog.component.ts" timestamp="1523880984585">
         <mark key="'" line="73" column="0" />
         <mark key="[" line="79" column="5" />
@@ -306,10 +321,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" timestamp="1526935954325">
-        <mark key="'" line="942" column="32" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1549610726432">
+      <file name="/Dummy.txt" timestamp="1549841673398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -320,6 +332,13 @@
         <mark key="]" line="4" column="30" />
         <mark key="^" line="4" column="30" />
         <mark key="." line="4" column="30" />
+      </file>
+      <file name="$USER_HOME$/software/interview_templates/dynamic.py" timestamp="1549838336615">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="35" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="35" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/berth-admin/berth-admin.component.ts" timestamp="1523877089342">
         <mark key="'" line="80" column="0" />
@@ -361,6 +380,12 @@
         <mark key="^" line="47" column="68" />
         <mark key="." line="47" column="68" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/greedy.py" timestamp="1549823351032">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/schemas.py" timestamp="1526029428072">
         <mark key="a" line="183" column="23" />
         <mark key="'" line="106" column="58" />
@@ -390,15 +415,18 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/graphs.py" timestamp="1549841606960">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/port-edit-dialog/port-edit-dialog.component.html" timestamp="1520263807712">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="46" column="21" />
         <mark key="]" line="46" column="50" />
         <mark key="^" line="46" column="50" />
         <mark key="." line="46" column="50" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-landing/port-landing.component.ts" timestamp="1526995651435">
-        <mark key="'" line="28" column="4" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/port/port-history/port-history.component.html" timestamp="1526904109356">
         <mark key="'" line="10" column="26" />
@@ -424,26 +452,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2156" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="2187" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="2188" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="944" column="8" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="1371" column="8" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="934" column="14" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="950" column="32" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="942" column="32" filename="$USER_HOME$/software/lbh-mis-frontend/node_modules/@types/d3/index.d.ts" />
-      <jump line="114" column="6" filename="$USER_HOME$/software/lbh-mis-frontend/tslint.json" />
-      <jump line="5" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/tslint.json" />
-      <jump line="138" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/tslint.json" />
-      <jump line="80" column="28" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="56" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="69" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="2" column="16" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="6" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/tslint.json" />
-      <jump line="117" column="13" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="92" column="23" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="112" column="54" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="85" column="9" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
       <jump line="86" column="54" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
       <jump line="46" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
       <jump line="71" column="50" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
@@ -524,61 +532,81 @@
       <jump line="395" column="33" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
       <jump line="88" column="42" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
       <jump line="152" column="25" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/views.py" />
+      <jump line="33" column="7" filename="$USER_HOME$/software/interview_templates/sorting.py" />
+      <jump line="69" column="19" filename="$USER_HOME$/software/interview_templates/sorting.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/interview_templates/sorting.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="15" column="3" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" />
+      <jump line="17" column="20" filename="$USER_HOME$/software/interview_templates/fibonacci.py" />
+      <jump line="2" column="10" filename="$USER_HOME$/software/interview_templates/fibonacci.py" />
+      <jump line="16" column="12" filename="$USER_HOME$/software/interview_templates/binary_search.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/software/interview_templates/binary_search.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/software/interview_templates/dynamic.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/dynamic.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>value</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
-        <text>new_da</text>
+        <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlbGlmIHJlY2lwaWVudCA9PSAnUG9ydCc6CiAgICAgICAgICAgIGxvb2t1cC5kYXRlX3ZhbGlkID0gJyVkLTA0LTAxJyAlIGxvb2t1cC55ZWFyCg==</text>
+        <text encoding="base64">ICAgIHRyZWUucm9vdC5sLnIgPSBCaW5hcnlOb2RlKDQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJvb3QgPSBOb2RlKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiZXM1IiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgImJhc2VVcmwiOiAiLi8iLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInNvdXJjZVJvb3QiOiAiIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ3RleHQveC10eXBlc2NyaXB0JzogWyd0cycsICd0c3gnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JlYXRlcl90b3RhbCwgY29tYmluYXRpb25zKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICJub2RlX21vZHVsZXMvY29sb3IvaW5kZXguanMiCg==</text>
+        <text encoding="base64">ICAgIGZvciBsZW5ndGggaW4gbW9kdWxvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICJub2RlX21vZHVsZXMvY29sb3IvaW5kZXguanMiCg==</text>
+        <text encoding="base64">ICAgIHBvc3NpYmxlXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2Jyb3dzZXJpZnknCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2luID0gZGVub21pbmF0aW9uc1tjb2luX2luZGV4XQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBwcmVwcm9jZXNzb3JzOiB7CiAgICAgICdzcmMvYXBwLyoqLyoqLmpzJzogWydicm93c2VyaWZ5J10KICAgIH0s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwcmV2aW91c19jb2luX2luZGV4ID0gY29pbl9pbmRleCAtIDEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>new_da</last-search>
+      <last-search>print</last-search>
       <last-offset />
-      <last-pattern>new_da</last-pattern>
+      <last-pattern>print</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -586,7 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serve</entry>
         <entry>serv</entry>
         <entry>tariff_year</entry>
         <entry>vessel_entered_port</entry>
@@ -606,6 +633,7 @@
         <entry>exclude</entry>
         <entry>test</entry>
         <entry>new_da</entry>
+        <entry>print</entry>
       </history-search>
       <history-cmd>
         <entry>299</entry>
@@ -625,8 +653,8 @@
         <entry>56</entry>
         <entry>567</entry>
         <entry>209</entry>
-        <entry>q</entry>
         <entry>qall</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
