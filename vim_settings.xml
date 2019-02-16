@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/start_script.py" timestamp="1550327841937">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.html" timestamp="1526900885350">
         <mark key="'" line="30" column="16" />
         <mark key="[" line="17" column="0" />
@@ -321,7 +324,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549841673398">
+      <file name="/Dummy.txt" timestamp="1550327827337">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -386,6 +389,12 @@
         <mark key="." line="4" column="27" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/software/interview_templates/scratch.py" timestamp="1549875543429">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/resources/schemas.py" timestamp="1526029428072">
         <mark key="a" line="183" column="23" />
         <mark key="'" line="106" column="58" />
@@ -415,11 +424,12 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/software/interview_templates/graphs.py" timestamp="1549841606960">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="6" column="16" />
+      <file name="$USER_HOME$/software/interview_templates/graphs.py" timestamp="1550327806027">
+        <mark key="'" line="0" column="17" />
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="12" />
+        <mark key="^" line="71" column="12" />
+        <mark key="." line="71" column="12" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/port-edit-dialog/port-edit-dialog.component.html" timestamp="1520263807712">
         <mark key="'" line="42" column="0" />
@@ -452,18 +462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="54" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="46" column="12" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="71" column="50" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="72" column="46" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="103" column="4" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="98" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="100" column="0" filename="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" />
-      <jump line="93" column="33" filename="$USER_HOME$/software/lbh-mis-frontend/angular.json" />
-      <jump line="19" column="20" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
-      <jump line="21" column="53" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
-      <jump line="211" column="17" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
-      <jump line="197" column="37" filename="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/cost_calculations.py" />
       <jump line="1895" column="49" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
       <jump line="1897" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
       <jump line="1905" column="0" filename="$USER_HOME$/software/lbh_berthtrack/base_app/models.py" />
@@ -552,52 +550,64 @@
       <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/search.py" />
       <jump line="7" column="0" filename="$USER_HOME$/software/interview_templates/dynamic.py" />
       <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/dynamic.py" />
+      <jump line="25" column="7" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="34" column="5" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="63" column="26" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="70" column="3" filename="$USER_HOME$/software/interview_templates/graphs.py" />
+      <jump line="0" column="17" filename="$USER_HOME$/software/interview_templates/graphs.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGEgPSBbWzEsIDEsIDEsIDFdLCBbXV0K</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyZWUucm9vdC5sLnIgPSBCaW5hcnlOb2RlKDQpCg==</text>
+        <text encoding="base64">ICAgIGNvbXBsZXRlX3BhdGhzID0gMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJvb3QgPSBOb2RlKCkK</text>
+        <text encoding="base64">ICAgIGEgPSBbWzEsIDEsIDEsIDFdLCBbXV0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZ3JlYXRlcl90b3RhbCwgY29tYmluYXRpb25zKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciBsZW5ndGggaW4gbW9kdWxvCg==</text>
+        <text encoding="base64">ICAgIHJvb3Rfbm9kZSA9ICcwXzAnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBvc3NpYmxlXwo=</text>
+        <text encoding="base64">ICAgIHN0YWNrID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2luID0gZGVub21pbmF0aW9uc1tjb2luX2luZGV4XQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmV2aW91c19jb2luX2luZGV4ID0gY29pbl9pbmRleCAtIDEK</text>
+        <text encoding="base64">ICAgIG5vZGVfbmFtZXMgPSBbW2kgZm9yIGkgaW4gcmFuZ2UobGVuKGFbMF0pKV1dCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -636,7 +646,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>299</entry>
         <entry>13</entry>
         <entry>21</entry>
         <entry>39</entry>
@@ -655,6 +664,7 @@
         <entry>209</entry>
         <entry>qall</entry>
         <entry>q</entry>
+        <entry>34</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
