@@ -115,11 +115,11 @@
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
       </file>
-      <file name="$USER_HOME$/software/document_hashtags/README.md" timestamp="1550442741137">
-        <mark key="[" line="38" column="73" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="39" column="0" />
-        <mark key="." line="39" column="9" />
+      <file name="$USER_HOME$/software/document_hashtags/README.md" timestamp="1550443579036">
+        <mark key="[" line="2" column="23" />
+        <mark key="]" line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+        <mark key="." line="2" column="23" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/tsconfig.json" timestamp="1527007618146">
         <mark key="[" line="3" column="31" />
@@ -174,12 +174,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/software/document_hashtags/parse.py" timestamp="1550441630250">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
-        <mark key="^" line="39" column="19" />
+      <file name="$USER_HOME$/software/document_hashtags/parse.py" timestamp="1550444194714">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549614499167">
         <mark key="[" line="8" column="16" />
@@ -423,8 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/software/document_hashtags/models.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="9" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="11" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="23" column="3" filename="$USER_HOME$/software/document_hashtags/manage.py" />
@@ -486,14 +482,12 @@
       <jump line="43" column="27" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="66" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="54" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="47" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="46" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="10" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="36" column="16" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="56" column="9" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="97" column="4" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="100" column="4" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="39" column="35" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="68" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
@@ -523,61 +517,65 @@
       <jump line="21" column="0" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
       <jump line="19" column="0" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
       <jump line="12" column="0" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
+      <jump line="49" column="8" filename="$USER_HOME$/software/document_hashtags/parse.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
+      <jump line="24" column="8" filename="$USER_HOME$/software/document_hashtags/parse.py" />
+      <jump line="51" column="37" filename="$USER_HOME$/software/document_hashtags/parse.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>but the links between tags and</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5zZXJ0ID0gc2VudGVuY2VfdGFnLmluc2VydCgpLnZhbHVlcyh0YWdfaWQ9YWxsX3RhZ3NbdF0sCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VudGVuY2VfaWQ9c2VudGVuY2UuaWQpCg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>but the links between tags and</text>
+        <text>insert</text>
       </register>
       <register name="/" type="4">
-        <text>Line</text>
+        <text>token_entries</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5zZXJ0ID0gc2VudGVuY2VfdGFnLmluc2VydCgpLnZhbHVlcyh0YWdfaWQ9YWxsX3RhZ3NbdF0sCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VudGVuY2VfaWQ9c2VudGVuY2UuaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmJ1bGtfc2F2ZV9vYmplY3RzKHRva2VuX2VudHJpZXMpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CjwhLS08Zm9ybT4tLT4KICA8IS0tPHNlbGVjdCBjbGFzcz0idG9wSGFzaHRhZ3MiPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjEwIj4xMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjIwIj4yMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjMwIj4zMDwvb3B0aW9uPi0tPgogIDwhLS08L3NlbGVjdD4tLT4KPCEtLTwvZm9ybT4tLT4K</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0b2tlbl9lbnRyaWVzID0ge30K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgJCgnLnRvcEhhc2h0YWdzJykuY2hhbmdlKGZ1bmN0aW9uKGEpIHsKICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnLCAkKCcudG9wSGFzaHRhZ3MnKS52YWwoKSk7CiAgfSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VudGVuY2VfdGFnX2xpc3QgPSBbXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLmVuZ2luZS5leGVjdXRlKHNlbnRlbmNlX3RhZy5pbnNlcnQoKSwgc2VudGVuY2VfdGFnX2xpc3QpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9zCg==</text>
+        <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBleHRlbnNpb25zIGltcG9ydCBkYgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CjwhLS08Zm9ybT4tLT4KICA8IS0tPHNlbGVjdCBjbGFzcz0idG9wSGFzaHRhZ3MiPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjEwIj4xMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjIwIj4yMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjMwIj4zMDwvb3B0aW9uPi0tPgogIDwhLS08L3NlbGVjdD4tLT4KPCEtLTwvZm9ybT4tLT4K</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgJCgnLnRvcEhhc2h0YWdzJykuY2hhbmdlKGZ1bmN0aW9uKGEpIHsKICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnLCAkKCcudG9wSGFzaHRhZ3MnKS52YWwoKSk7CiAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Line</last-search>
+      <last-search>token_entries</last-search>
       <last-offset />
-      <last-pattern>Line</last-pattern>
+      <last-pattern>token_entries</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -585,7 +583,6 @@
     </search>
     <history>
       <history-search>
-        <entry>entered</entry>
         <entry>guess_tariff_date</entry>
         <entry>pre</entry>
         <entry>frame</entry>
@@ -605,6 +602,7 @@
         <entry>one</entry>
         <entry>line</entry>
         <entry>Line</entry>
+        <entry>token_entries</entry>
       </history-search>
       <history-cmd>
         <entry>75</entry>
