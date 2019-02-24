@@ -357,11 +357,12 @@
         <mark key="^" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
-      <file name="$USER_HOME$/software/interview_templates/scratch.py" timestamp="1549875543429">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/software/interview_templates/scratch.py" timestamp="1551002514854">
+        <mark key="'" line="18" column="17" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-admin/portcall-admin.component.html" timestamp="1526904124352">
         <mark key="'" line="36" column="30" />
@@ -421,17 +422,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="23" column="3" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="3" column="46" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="44" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="38" column="4" filename="$USER_HOME$/software/document_hashtags/models.py" />
-      <jump line="45" column="36" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="37" column="0" filename="$USER_HOME$/software/document_hashtags/models.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/software/document_hashtags/models.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/software/document_hashtags/models.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="17" column="33" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="38" column="25" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="29" column="13" filename="$USER_HOME$/software/document_hashtags/parse.py" />
@@ -521,52 +511,63 @@
       <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="24" column="8" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="51" column="37" filename="$USER_HOME$/software/document_hashtags/parse.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="22" column="4" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="17" column="17" filename="$USER_HOME$/software/interview_templates/scratch.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5zZXJ0ID0gc2VudGVuY2VfdGFnLmluc2VydCgpLnZhbHVlcyh0YWdfaWQ9YWxsX3RhZ3NbdF0sCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VudGVuY2VfaWQ9c2VudGVuY2UuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQocSkK</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>insert</text>
+        <text>and</text>
       </register>
       <register name="/" type="4">
         <text>token_entries</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbG9zZXN0X2Rpc3RhbmNlID0gZGlzdGFuY2UKICAgICAgICAgICAgICAgICAgICBjbG9zZXN0X2RheSA9IHNvcnRlZF9pbmRleGVzW2ldCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgaW5zZXJ0ID0gc2VudGVuY2VfdGFnLmluc2VydCgpLnZhbHVlcyh0YWdfaWQ9YWxsX3RhZ3NbdF0sCiAgICAgICAgICAgICAgICAjICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VudGVuY2VfaWQ9c2VudGVuY2UuaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQocSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5zZXNzaW9uLmJ1bGtfc2F2ZV9vYmplY3RzKHRva2VuX2VudHJpZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSwgaikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbl9lbnRyaWVzID0ge30K</text>
+        <text encoding="base64">ICAgIHByaW50KHNvcnRlZF9pbmRleGVzKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VudGVuY2VfdGFnX2xpc3QgPSBbXQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQogICAgICAgICAgICAgICAgICAgIHByaW50KGNsb3Nlc3RfZGF5LCBzb3J0ZWRfaW5kZXhlc1tpXSkKICAgICAgICAgICAgICAgICAgICBwcmludChjbG9zZXN0X2Rpc3RhbmNlLCBkaXN0YW5jZSkKICAgICAgICAgICAgICAgICAgICBwcmludChzdG9ja0RhdGFbY2xvc2VzdF9kYXldLCBzdG9ja0RhdGFbc29ydGVkX2luZGV4ZXNbaV1dKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiLmVuZ2luZS5leGVjdXRlKHNlbnRlbmNlX3RhZy5pbnNlcnQoKSwgc2VudGVuY2VfdGFnX2xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlzdGFuY2UsIGNsb3Nlc3RfZGlzdGFuY2UpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CjwhLS08Zm9ybT4tLT4KICA8IS0tPHNlbGVjdCBjbGFzcz0idG9wSGFzaHRhZ3MiPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjEwIj4xMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjIwIj4yMDwvb3B0aW9uPi0tPgogICAgPCEtLTxvcHRpb24gdmFsdWU9IjMwIj4zMDwvb3B0aW9uPi0tPgogIDwhLS08L3NlbGVjdD4tLT4KPCEtLTwvZm9ybT4tLT4K</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2VzdAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgJCgnLnRvcEhhc2h0YWdzJykuY2hhbmdlKGZ1bmN0aW9uKGEpIHsKICAgIGNvbnNvbGUubG9nKCdjaGFuZ2UnLCAkKCcudG9wSGFzaHRhZ3MnKS52YWwoKSk7CiAgfSk=</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHJlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
