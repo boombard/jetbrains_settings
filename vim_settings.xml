@@ -94,6 +94,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="41" />
       </file>
+      <file name="$USER_HOME$/software/bifurlo/manage.py" timestamp="1551896197608">
+        <mark key="'" line="82" column="26" />
+        <mark key="[" line="102" column="71" />
+        <mark key="]" line="102" column="71" />
+        <mark key="." line="102" column="71" />
+        <mark key="^" line="102" column="72" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/docker-compose.yml" timestamp="1520701247443">
         <mark key="'" line="43" column="11" />
         <mark key="[" line="21" column="38" />
@@ -224,6 +231,12 @@
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
       </file>
+      <file name="$USER_HOME$/software/bifurlo/api/collectors.py" timestamp="1551895924247">
+        <mark key="'" line="26" column="24" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" timestamp="1526932920804">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="108" column="0" />
@@ -293,7 +306,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551894115020">
+      <file name="/Dummy.txt" timestamp="1551896802602">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -422,22 +435,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="33" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="38" column="25" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="29" column="13" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="30" column="13" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="58" column="3" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="59" column="30" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="1" column="26" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="60" column="32" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="3" column="18" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="53" column="4" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="20" column="14" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="18" column="6" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
-      <jump line="34" column="8" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
       <jump line="77" column="34" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="65" column="31" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="55" column="50" filename="$USER_HOME$/software/document_hashtags/parse.py" />
@@ -522,61 +519,77 @@
       <jump line="22" column="4" filename="$USER_HOME$/software/interview_templates/scratch.py" />
       <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
       <jump line="17" column="17" filename="$USER_HOME$/software/interview_templates/scratch.py" />
+      <jump line="83" column="31" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="160" column="32" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="182" column="15" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="45" column="15" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="42" column="23" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="40" column="8" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="34" column="42" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="32" column="16" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="30" column="21" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="27" column="28" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="31" column="4" filename="$USER_HOME$/software/bifurlo/manage.py" />
+      <jump line="26" column="24" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
+      <jump line="99" column="26" filename="$USER_HOME$/software/bifurlo/manage.py" />
+      <jump line="130" column="56" filename="$USER_HOME$/software/bifurlo/manage.py" />
+      <jump line="127" column="12" filename="$USER_HOME$/software/bifurlo/manage.py" />
+      <jump line="82" column="26" filename="$USER_HOME$/software/bifurlo/manage.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQocSkK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>and</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>token_entries</text>
+        <text>expression</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjbG9zZXN0X2Rpc3RhbmNlID0gZGlzdGFuY2UKICAgICAgICAgICAgICAgICAgICBjbG9zZXN0X2RheSA9IHNvcnRlZF9pbmRleGVzW2ldCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRmID0gcGQucmVhZF9jc3YoZGF0YSwgaW5kZXhfY29sPTAsICoqa3dhcmdzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQocSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgaXNpbnN0YW5jZShleHBlcmltZW50X25hbWUsIHN0cik6Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSwgaikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KHNvcnRlZF9pbmRleGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQocSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQogICAgICAgICAgICAgICAgICAgIHByaW50KGNsb3Nlc3RfZGF5LCBzb3J0ZWRfaW5kZXhlc1tpXSkKICAgICAgICAgICAgICAgICAgICBwcmludChjbG9zZXN0X2Rpc3RhbmNlLCBkaXN0YW5jZSkKICAgICAgICAgICAgICAgICAgICBwcmludChzdG9ja0RhdGFbY2xvc2VzdF9kYXldLCBzdG9ja0RhdGFbc29ydGVkX2luZGV4ZXNbaV1dKQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoaSwgaikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50KHNvcnRlZF9pbmRleGVzKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlzdGFuY2UsIGNsb3Nlc3RfZGlzdGFuY2UpCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgcHJpbnQoKQogICAgICAgICAgICAgICAgICAgIHByaW50KGNsb3Nlc3RfZGF5LCBzb3J0ZWRfaW5kZXhlc1tpXSkKICAgICAgICAgICAgICAgICAgICBwcmludChjbG9zZXN0X2Rpc3RhbmNlLCBkaXN0YW5jZSkKICAgICAgICAgICAgICAgICAgICBwcmludChzdG9ja0RhdGFbY2xvc2VzdF9kYXldLCBzdG9ja0RhdGFbc29ydGVkX2luZGV4ZXNbaV1dKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2VzdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoZGlzdGFuY2UsIGNsb3Nlc3RfZGlzdGFuY2UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHJlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>token_entries</last-search>
+      <last-search>expression</last-search>
       <last-offset />
-      <last-pattern>token_entries</last-pattern>
+      <last-pattern>expression</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -584,11 +597,6 @@
     </search>
     <history>
       <history-search>
-        <entry>guess_tariff_date</entry>
-        <entry>pre</entry>
-        <entry>frame</entry>
-        <entry>require</entry>
-        <entry>color</entry>
         <entry>mime</entry>
         <entry>loader</entry>
         <entry>outputPath</entry>
@@ -604,12 +612,13 @@
         <entry>line</entry>
         <entry>Line</entry>
         <entry>token_entries</entry>
+        <entry>annotation</entry>
+        <entry>one()</entry>
+        <entry>experiment</entry>
+        <entry>create=</entry>
+        <entry>expression</entry>
       </history-search>
       <history-cmd>
-        <entry>75</entry>
-        <entry>51</entry>
-        <entry>45</entry>
-        <entry>54</entry>
         <entry>48</entry>
         <entry>16</entry>
         <entry>7</entry>
@@ -625,6 +634,10 @@
         <entry>21</entry>
         <entry>34</entry>
         <entry>43</entry>
+        <entry>74</entry>
+        <entry>94</entry>
+        <entry>51</entry>
+        <entry>27</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
