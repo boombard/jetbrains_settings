@@ -50,6 +50,12 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a9b26c2-2480-4188-b759-4b6a15b4321b/console.sql" timestamp="1553270810522">
+        <mark key="[" line="36" column="28" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="36" column="28" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.html" timestamp="1526030645026">
         <mark key="'" line="42" column="5" />
         <mark key="[" line="11" column="0" />
@@ -263,17 +269,23 @@
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/interviews/man_ah/query.sql" timestamp="1553271050159">
+        <mark key="[" line="0" column="48" />
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+      </file>
       <file name="$USER_HOME$/software/document_hashtags/tests/__init__.py" timestamp="1553005871992">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/man_ah/test.py" timestamp="1553266882312">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="39" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="10" column="39" />
+      <file name="$USER_HOME$/interviews/man_ah/test.py" timestamp="1553273050125">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="20" column="7" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/bi-components/choropleth/choropleth.component.ts" timestamp="1526941531377">
         <mark key="'" line="100" column="0" />
@@ -402,6 +414,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/interviews/man_ah/README.md" timestamp="1553272855260">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="20" />
+        <mark key="." line="11" column="20" />
+        <mark key="^" line="11" column="20" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-admin/portcall-admin.component.html" timestamp="1526904124352">
         <mark key="'" line="36" column="30" />
         <mark key="[" line="32" column="53" />
@@ -458,26 +477,15 @@
         <mark key="." line="23" column="43" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/interviews/man_ah/random_gen.py" timestamp="1553266892200">
-        <mark key="'" line="51" column="8" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="4" column="8" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/interviews/man_ah/random_gen.py" timestamp="1553273019348">
+        <mark key="'" line="53" column="8" />
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="71" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="32" column="47" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="30" column="0" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="5" column="0" filename="$USER_HOME$/software/document_hashtags/calculations.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="73" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="57" column="0" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="48" column="31" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="44" column="16" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
@@ -555,64 +563,75 @@
       <jump line="8" column="22" filename="$USER_HOME$/software/interview_templates/trees.py" />
       <jump line="53" column="17" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="2" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="68" column="4" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="6" column="11" filename="$USER_HOME$/interviews/man_ah/test.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="28" column="29" filename="$USER_HOME$/interviews/man_ah/test.py" />
       <jump line="0" column="0" filename="$USER_HOME$/interviews/man_ah/test.py" />
       <jump line="1" column="20" filename="$USER_HOME$/interviews/man_ah/test.py" />
       <jump line="27" column="0" filename="$USER_HOME$/interviews/man_ah/test.py" />
-      <jump line="54" column="8" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="1" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="50" column="8" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
       <jump line="52" column="8" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="13" column="1" filename="$USER_HOME$/interviews/man_ah/README.md" />
+      <jump line="2" column="10" filename="$USER_HOME$/interviews/man_ah/README.md" />
+      <jump line="22" column="38" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="31" column="11" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="75" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="61" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="72" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="74" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="77" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="80" column="0" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
+      <jump line="51" column="8" filename="$USER_HOME$/interviews/man_ah/random_gen.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdW0ocHJvYmFiaWxpdGllcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQocmVjZWl2ZWRfcHJvYnMpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICAgICAgcHJvYiA9IHJhbmRvbS5yYW5kb20oKQogICAgICAgIGZvciBpLCBudW1iZXIgaW4gZW51bWVyYXRlKHNlbGYuX3JhbmRvbV9udW1zKToKICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgcHJldmlvdXNfcHJvYiA9IDAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSBzZWxmLl9jZGZbaSAtIDFdCiAgICAgICAgICAgIGlmIHNlbGYuX2NkZltpXSA+IHByb2IgPj0gcHJldmlvdXNfcHJvYjoKICAgICAgICAgICAgICAgIHJldHVybiBudW1iZXI=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzdW0ocHJvYmFiaWxpdGllcykpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBwcHJpbnQgaW1wb3J0IHBwcmludAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQocmVjZWl2ZWRfcHJvYnMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQoY291bnRlcikK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGNyZWF0ZV9zYW1wbGVyKG51bWJlcnMsIHByb2JhYmlsaXRpZXMpOgoKICAgIGN1bXVsYXRpdmVfcHJvYnMgPSAwCiAgICBjZGYgPSBbXQogICAgZm9yIGkgaW4gcHJvYmFiaWxpdGllczoKICAgICAgICBjdW11bGF0aXZlX3Byb2JzICs9IGkKICAgICAgICBjZGYuYXBwZW5kKGN1bXVsYXRpdmVfcHJvYnMpCgogICAgZGVmIHNhbXBsZXIoKToKICAgICAgICB3aGlsZSAxOgogICAgICAgICAgICBwcm9iID0gcmFuZG9tLnJhbmRvbSgpCiAgICAgICAgICAgIGZvciBpLCBudW1iZXIgaW4gZW51bWVyYXRlKG51bWJlcnMpOgogICAgICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSAwCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSBjZGZbaSAtIDFdCiAgICAgICAgICAgICAgICBpZiBjZGZbaV0gPiBwcm9iID49IHByZXZpb3VzX3Byb2I6CiAgICAgICAgICAgICAgICAgICAgeWllbGQgbnVtYmVyCgogICAgcmV0dXJuIHNhbXBsZXIoKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CgogICAgbnVtYmVycyA9IFstMSwgMCwgMSwgMiwgM10KICAgIHByb2JhYmlsaXRpZXMgPSBbMC4wMSwgMC4zLCAwLjU4LCAwLjEsIDAuMDFdCiAgICBnID0gY3JlYXRlX3NhbXBsZXIobnVtYmVycywgcHJvYmFiaWxpdGllcyk=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmRlZiBjcmVhdGVfc2FtcGxlcihudW1iZXJzLCBwcm9iYWJpbGl0aWVzKToKCiAgICBjdW11bGF0aXZlX3Byb2JzID0gMAogICAgY2RmID0gW10KICAgIGZvciBpIGluIHByb2JhYmlsaXRpZXM6CiAgICAgICAgY3VtdWxhdGl2ZV9wcm9icyArPSBpCiAgICAgICAgY2RmLmFwcGVuZChjdW11bGF0aXZlX3Byb2JzKQoKICAgIGRlZiBzYW1wbGVyKCk6CiAgICAgICAgd2hpbGUgMToKICAgICAgICAgICAgcHJvYiA9IHJhbmRvbS5yYW5kb20oKQogICAgICAgICAgICBmb3IgaSwgbnVtYmVyIGluIGVudW1lcmF0ZShudW1iZXJzKToKICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c19wcm9iID0gMAogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c19wcm9iID0gY2RmW2kgLSAxXQogICAgICAgICAgICAgICAgaWYgY2RmW2ldID4gcHJvYiA+PSBwcmV2aW91c19wcm9iOgogICAgICAgICAgICAgICAgICAgIHlpZWxkIG51bWJlcgoKICAgIHJldHVybiBzYW1wbGVyKCkKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgoKICAgIG51bWJlcnMgPSBbLTEsIDAsIDEsIDIsIDNdCiAgICBwcm9iYWJpbGl0aWVzID0gWzAuMDEsIDAuMywgMC41OCwgMC4xLCAwLjAxXQogICAgZyA9IGNyZWF0ZV9zYW1wbGVyKG51bWJlcnMsIHByb2JhYmlsaXRpZXMp</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CgogICAgciA9IFJhbmRvbUdlbihbLTEsIDAsIDEsIDIsIDNdLAogICAgICAgICAgICAgICAgICBbMC4wMSwgMC4zLCAwLjU4LCAwLjEsIDAuMDFdKQogICAgcHJpbnQoci5uZXh0X251bSgpKQogICAgY291bnRlciA9IHt9CiAgICBmb3IgaSBpbiByYW5nZSgxMDAwMDAwKToKICAgICAgICBuZXdfbnVtYmVyID0gci5uZXh0X251bSgpCiAgICAgICAgaWYgbmV3X251bWJlciBpbiBjb3VudGVyOgogICAgICAgICAgICBjb3VudGVyW25ld19udW1iZXJdICs9IDEKICAgICAgICBlbHNlOgogICAgICAgICAgICBjb3VudGVyW25ld19udW1iZXJdID0gMQogICAgcHByaW50KGNvdW50ZXIp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaW50KG1pbihbbmV4dChnKSBmb3IgaSBpbiByYW5nZSgxMDApXSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
