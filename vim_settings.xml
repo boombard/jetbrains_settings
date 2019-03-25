@@ -51,6 +51,11 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="28" />
       </file>
+      <file name="$USER_HOME$/interviews/smartodds/manage.py" timestamp="1553544119993">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.html" timestamp="1526030645026">
         <mark key="'" line="42" column="5" />
         <mark key="[" line="11" column="0" />
@@ -67,6 +72,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/interviews/smartodds/models.py" timestamp="1553544061078">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/software/lbh_berthtrack/base_app/admin.py" timestamp="1526986774130">
         <mark key="'" line="413" column="4" />
@@ -89,15 +100,10 @@
         <mark key="." line="46" column="41" />
         <mark key="^" line="46" column="41" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/797a8017-0777-4d6b-bee9-6572aa5e1e73/console.sql" timestamp="1526988595948">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/app.py" timestamp="1550438240485">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="42" />
+      <file name="$USER_HOME$/software/document_hashtags/app.py" timestamp="1553543916691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="13" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="6" column="41" />
       </file>
@@ -128,18 +134,6 @@
         <mark key="]" line="75" column="28" />
         <mark key="." line="75" column="28" />
         <mark key="^" line="75" column="28" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/README.md" timestamp="1550443579036">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/tsconfig.json" timestamp="1527007618146">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
       </file>
       <file name="$USER_HOME$/software/interview_templates/search.py" timestamp="1549822693307">
         <mark key="'" line="1" column="0" />
@@ -176,28 +170,21 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
       </file>
-      <file name="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" timestamp="1549803770414">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/interviews/smartodds/parse.py" timestamp="1553547065665">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="28" />
+        <mark key="^" line="1" column="28" />
       </file>
-      <file name="$USER_HOME$/software/document_hashtags/models.py" timestamp="1550440872855">
-        <mark key="'" line="24" column="26" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/interviews/smartodds/extensions.py" timestamp="1553544001668">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/software/document_hashtags/parse.py" timestamp="1550444194714">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549614499167">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="15" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-backend/lbh_mis_backend/celery_tasks.py" timestamp="1520702209074">
         <mark key="'" line="7" column="17" />
@@ -213,23 +200,11 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" timestamp="1526983999730">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/extensions.py" timestamp="1550410480234">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
+      <file name="$USER_HOME$/software/document_hashtags/extensions.py" timestamp="1553543989978">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/karma.conf.js" timestamp="1527005816894">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/api/vessel-type.service.ts" timestamp="1525982541167">
         <mark key="'" line="31" column="2" />
@@ -245,12 +220,6 @@
         <mark key="." line="66" column="33" />
         <mark key="^" line="66" column="33" />
       </file>
-      <file name="$USER_HOME$/software/bifurlo/api/collectors.py" timestamp="1551895924247">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-      </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/portcall-input/portcall-input.component.ts" timestamp="1526932920804">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="108" column="0" />
@@ -264,12 +233,6 @@
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="^" line="8" column="39" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/test/test_parse.py" timestamp="1550412071740">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/interviews/man_ah/query.sql" timestamp="1553271050159">
         <mark key="[" line="0" column="48" />
@@ -338,7 +301,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553268553433">
+      <file name="/Dummy.txt" timestamp="1553547216626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -376,12 +339,6 @@
         <mark key="." line="61" column="24" />
         <mark key="^" line="59" column="22" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/test.ts" timestamp="1527006527336">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/software/interview_templates/trees.py" timestamp="1553175315599">
         <mark key="'" line="8" column="22" />
         <mark key="[" line="32" column="17" />
@@ -395,12 +352,6 @@
         <mark key="]" line="47" column="68" />
         <mark key="^" line="47" column="68" />
         <mark key="." line="47" column="68" />
-      </file>
-      <file name="$USER_HOME$/software/interview_templates/greedy.py" timestamp="1549823351032">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/software/document_hashtags/calculations.py" timestamp="1550441440795">
         <mark key="'" line="5" column="0" />
@@ -486,10 +437,14 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/interviews/smartoods/app.py" timestamp="1553543941927">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="22" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="29" column="0" filename="$USER_HOME$/software/document_hashtags/manage.py" />
       <jump line="62" column="8" filename="$USER_HOME$/software/document_hashtags/parse.py" />
       <jump line="12" column="22" filename="$USER_HOME$/software/document_hashtags/parse.py" />
@@ -588,28 +543,32 @@
       <jump line="9" column="0" filename="$USER_HOME$/software/interview_templates/strings.py" />
       <jump line="5" column="0" filename="$USER_HOME$/software/interview_templates/strings.py" />
       <jump line="12" column="3" filename="$USER_HOME$/software/interview_templates/recursion.py" />
+      <jump line="13" column="22" filename="$USER_HOME$/software/document_hashtags/app.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/app.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Document</text>
       </register>
       <register name="b" type="4">
         <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Document</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgcHJvYiA9IHJhbmRvbS5yYW5kb20oKQogICAgICAgIGZvciBpLCBudW1iZXIgaW4gZW51bWVyYXRlKHNlbGYuX3JhbmRvbV9udW1zKToKICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgcHJldmlvdXNfcHJvYiA9IDAKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSBzZWxmLl9jZGZbaSAtIDFdCiAgICAgICAgICAgIGlmIHNlbGYuX2NkZltpXSA+IHByb2IgPj0gcHJldmlvdXNfcHJvYjoKICAgICAgICAgICAgICAgIHJldHVybiBudW1iZXI=</text>
+        <text>from flask_sqlalchemy import SQLAlchemy
+
+db = SQLAlchemy()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNwYWN5Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -617,23 +576,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CkBhcHAucm91dGUoJy9oYXNodGFncycpCmRlZiBoYXNodGFncygpOgogICAgZGF0YSA9IHsnZGF0YSc6IGZpbmRfaGFzaHRhZ3MoZGIpfQogICAgcmV0dXJuIGpzb25pZnkoZGF0YSk=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBjYWxjdWxhdGlvbnMgaW1wb3J0IGZpbmRfaGFzaHRhZ3MK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZGVmIGNyZWF0ZV9zYW1wbGVyKG51bWJlcnMsIHByb2JhYmlsaXRpZXMpOgoKICAgIGN1bXVsYXRpdmVfcHJvYnMgPSAwCiAgICBjZGYgPSBbXQogICAgZm9yIGkgaW4gcHJvYmFiaWxpdGllczoKICAgICAgICBjdW11bGF0aXZlX3Byb2JzICs9IGkKICAgICAgICBjZGYuYXBwZW5kKGN1bXVsYXRpdmVfcHJvYnMpCgogICAgZGVmIHNhbXBsZXIoKToKICAgICAgICB3aGlsZSAxOgogICAgICAgICAgICBwcm9iID0gcmFuZG9tLnJhbmRvbSgpCiAgICAgICAgICAgIGZvciBpLCBudW1iZXIgaW4gZW51bWVyYXRlKG51bWJlcnMpOgogICAgICAgICAgICAgICAgaWYgaSA9PSAwOgogICAgICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSAwCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIHByZXZpb3VzX3Byb2IgPSBjZGZbaSAtIDFdCiAgICAgICAgICAgICAgICBpZiBjZGZbaV0gPiBwcm9iID49IHByZXZpb3VzX3Byb2I6CiAgICAgICAgICAgICAgICAgICAgeWllbGQgbnVtYmVyCgogICAgcmV0dXJuIHNhbXBsZXIoKQoKCmlmIF9fbmFtZV9fID09ICdfX21haW5fXyc6CgogICAgbnVtYmVycyA9IFstMSwgMCwgMSwgMiwgM10KICAgIHByb2JhYmlsaXRpZXMgPSBbMC4wMSwgMC4zLCAwLjU4LCAwLjEsIDAuMDFdCiAgICBnID0gY3JlYXRlX3NhbXBsZXIobnVtYmVycywgcHJvYmFiaWxpdGllcyk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmRlZiBjcmVhdGVfc2FtcGxlcihudW1iZXJzLCBwcm9iYWJpbGl0aWVzKToKCiAgICBjdW11bGF0aXZlX3Byb2JzID0gMAogICAgY2RmID0gW10KICAgIGZvciBpIGluIHByb2JhYmlsaXRpZXM6CiAgICAgICAgY3VtdWxhdGl2ZV9wcm9icyArPSBpCiAgICAgICAgY2RmLmFwcGVuZChjdW11bGF0aXZlX3Byb2JzKQoKICAgIGRlZiBzYW1wbGVyKCk6CiAgICAgICAgd2hpbGUgMToKICAgICAgICAgICAgcHJvYiA9IHJhbmRvbS5yYW5kb20oKQogICAgICAgICAgICBmb3IgaSwgbnVtYmVyIGluIGVudW1lcmF0ZShudW1iZXJzKToKICAgICAgICAgICAgICAgIGlmIGkgPT0gMDoKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c19wcm9iID0gMAogICAgICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgICAgICBwcmV2aW91c19wcm9iID0gY2RmW2kgLSAxXQogICAgICAgICAgICAgICAgaWYgY2RmW2ldID4gcHJvYiA+PSBwcmV2aW91c19wcm9iOgogICAgICAgICAgICAgICAgICAgIHlpZWxkIG51bWJlcgoKICAgIHJldHVybiBzYW1wbGVyKCkKCgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgoKICAgIG51bWJlcnMgPSBbLTEsIDAsIDEsIDIsIDNdCiAgICBwcm9iYWJpbGl0aWVzID0gWzAuMDEsIDAuMywgMC41OCwgMC4xLCAwLjAxXQogICAgZyA9IGNyZWF0ZV9zYW1wbGVyKG51bWJlcnMsIHByb2JhYmlsaXRpZXMp</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
