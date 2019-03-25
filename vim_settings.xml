@@ -51,11 +51,10 @@
         <mark key="^" line="36" column="0" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="$USER_HOME$/interviews/smartodds/manage.py" timestamp="1553547454245">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/interviews/smartodds/manage.py" timestamp="1553549697277">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh-mis-frontend/src/app/admin/user-log-table/user-log-table.component.html" timestamp="1526030645026">
         <mark key="'" line="42" column="5" />
@@ -74,12 +73,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/smartodds/models.py" timestamp="1553547714357">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="0" column="28" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
+      <file name="$USER_HOME$/interviews/smartodds/models.py" timestamp="1553549712325">
+        <mark key="'" line="65" column="25" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="34" />
+        <mark key="^" line="64" column="56" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/software/lbh_berthtrack/base_app/admin.py" timestamp="1526986774130">
         <mark key="'" line="413" column="4" />
@@ -172,11 +171,11 @@
         <mark key="^" line="38" column="68" />
         <mark key="." line="38" column="68" />
       </file>
-      <file name="$USER_HOME$/interviews/smartodds/parse.py" timestamp="1553547065665">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="28" />
-        <mark key="." line="1" column="28" />
-        <mark key="^" line="1" column="28" />
+      <file name="$USER_HOME$/interviews/smartodds/parse.py" timestamp="1553549727027">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/interviews/smartodds/extensions.py" timestamp="1553544001668">
         <mark key="[" line="0" column="0" />
@@ -303,7 +302,7 @@
         <mark key="." line="6" column="42" />
         <mark key="^" line="60" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553547723056">
+      <file name="/Dummy.txt" timestamp="1553549882961">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -447,55 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="6" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="22" column="4" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="1" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="17" column="17" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="83" column="31" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="160" column="32" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="182" column="15" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="45" column="15" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="42" column="23" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="40" column="8" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="34" column="42" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="32" column="16" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="30" column="21" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="27" column="28" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="31" column="4" filename="$USER_HOME$/software/bifurlo/manage.py" />
-      <jump line="26" column="24" filename="$USER_HOME$/software/bifurlo/api/collectors.py" />
-      <jump line="99" column="26" filename="$USER_HOME$/software/bifurlo/manage.py" />
-      <jump line="130" column="56" filename="$USER_HOME$/software/bifurlo/manage.py" />
-      <jump line="127" column="12" filename="$USER_HOME$/software/bifurlo/manage.py" />
-      <jump line="82" column="26" filename="$USER_HOME$/software/bifurlo/manage.py" />
-      <jump line="36" column="0" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
-      <jump line="26" column="6" filename="$USER_HOME$/software/document_hashtags/templates/homepage.html" />
-      <jump line="5" column="25" filename="$USER_HOME$/software/document_hashtags/manage.py" />
-      <jump line="11" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="24" column="16" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="47" column="33" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="0" column="10" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="46" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="69" column="31" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="58" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="51" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="90" column="27" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="89" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="82" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="75" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="61" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="38" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="48" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="80" column="0" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="70" column="13" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="1" column="24" filename="$USER_HOME$/software/interview_templates/recursion.py" />
-      <jump line="41" column="19" filename="$USER_HOME$/software/interview_templates/recursion.py" />
       <jump line="65" column="24" filename="$USER_HOME$/software/interview_templates/recursion.py" />
       <jump line="79" column="18" filename="$USER_HOME$/software/interview_templates/recursion.py" />
       <jump line="62" column="10" filename="$USER_HOME$/software/interview_templates/recursion.py" />
@@ -533,68 +483,115 @@
       <jump line="13" column="22" filename="$USER_HOME$/software/document_hashtags/app.py" />
       <jump line="0" column="0" filename="$USER_HOME$/software/document_hashtags/app.py" />
       <jump line="21" column="0" filename="$USER_HOME$/interviews/smartodds/manage.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
       <jump line="7" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="12" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="15" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="18" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="20" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="23" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
       <jump line="25" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="28" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="5" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="27" column="67" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="21" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="9" column="33" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="35" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
       <jump line="33" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="94" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="17" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
       <jump line="37" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="66" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="107" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="67" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="63" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="57" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="55" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="42" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
       <jump line="40" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="34" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="32" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="4" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="11" column="7" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="22" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="30" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="97" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/interviews/smartodds/parse.py" />
+      <jump line="14" column="42" filename="$USER_HOME$/interviews/smartodds/manage.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/interviews/smartodds/manage.py" />
+      <jump line="27" column="0" filename="$USER_HOME$/interviews/smartodds/manage.py" />
+      <jump line="44" column="4" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/interviews/smartodds/models.py" />
+      <jump line="65" column="25" filename="$USER_HOME$/interviews/smartodds/models.py" />
     </jumps>
     <registers>
-      <register name="a" type="4">
-        <text>{{ direction === 'import' ? 'Export' : 'Import' }}</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIGlkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGF1dG9pbmNyZW1lbnQ9VHJ1ZSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZlsnbG9jYXRpb25faWQnXQo=</text>
       </register>
-      <register name="b" type="4">
-        <text encoding="base64">CiAgICBtZXRob2RfZGVjb3JhdG9ycyA9IHsKICAgICAgICAnZ2V0JzogW2F1dGhlbnRpY2F0ZV0sCiAgICAgICAgJ3B1dCc6IFtjcmVhdGVfcm9sZV9hdXRoZW50aWNhdG9yKFsnYWRtaW4nXSldLAogICAgICAgICdkZWxldGUnOiBbY3JlYXRlX3JvbGVfYXV0aGVudGljYXRvcihbJ2FkbWluJ10pXSwKICAgIH0K</text>
+      <register name="b" type="2">
+        <text encoding="base64">ICAgIGxvc2VyX2lkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2xvc2VyLmlkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Document</text>
+        <text>continue</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text>from flask_sqlalchemy import SQLAlchemy
-
-db = SQLAlchemy()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHdpbm5lcl9nYW1lcyA9IGRiLkNvbHVtbihkYi5JbnRlZ2VyLCBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHNwYWN5Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZlsnbG9jYXRpb25faWQnXQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdjcmVhdGluZyB0YWJsZXMnKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgpAYXBwLmNsaS5jb21tYW5kKCdhZGRfbG9jYWxfZG9jdW1lbnQnKQpAY2xpY2suYXJndW1lbnQoJ2ZpbGVuYW1lJykKZGVmIGFkZF9sb2NhbF9kb2N1bWVudChmaWxlbmFtZSk6CiAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkKICAgIGRvY3VtZW50ID0gTG9jYWxGaWxlUGFyc2VyKGZpbGVuYW1lKQogICAgZG9jdW1lbnQubG9hZF9zZW50ZW5jZXMoZGIpCiAgICBkb2N1bWVudC5maW5kX3RhZ3MoZGIpCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CkBhcHAucm91dGUoJy9oYXNodGFncycpCmRlZiBoYXNodGFncygpOgogICAgZGF0YSA9IHsnZGF0YSc6IGZpbmRfaGFzaHRhZ3MoZGIpfQogICAgcmV0dXJuIGpzb25pZnkoZGF0YSk=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudC5sb2FkX3NlbnRlbmNlcyhkYikKICAgICAgICBkb2N1bWVudC5maW5kX3RhZ3MoZGIpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjYWxjdWxhdGlvbnMgaW1wb3J0IGZpbmRfaGFzaHRhZ3MK</text>
+      <register name="5" type="4">
+        <text encoding="base64">CgoKQGFwcC5yb3V0ZSgnL2pzLzxwYXRoOnBhdGg+JykKZGVmIGpzKHBhdGgpOgogICAgcmV0dXJuIHNlbmRfZnJvbV9kaXJlY3RvcnkoJ2pzJywgcGF0aCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CkBhcHAucm91dGUoJy8nKQpkZWYgaW5kZXgoKToKICAgIHJldHVybiByZW5kZXJfdGVtcGxhdGUoJ2hvbWVwYWdlLmh0bWwnKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1cmZhY2UgPSBkYi5Db2x1bW4oZGIuU3RyaW5nKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -633,18 +630,8 @@ db = SQLAlchemy()</text>
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>35</entry>
-        <entry>4</entry>
-        <entry>10</entry>
-        <entry>52</entry>
-        <entry>49</entry>
-        <entry>21</entry>
-        <entry>34</entry>
-        <entry>43</entry>
-        <entry>74</entry>
         <entry>94</entry>
         <entry>51</entry>
-        <entry>27</entry>
         <entry>39</entry>
         <entry>6</entry>
         <entry>23</entry>
@@ -652,6 +639,16 @@ db = SQLAlchemy()</text>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>29</entry>
         <entry>5</entry>
+        <entry>21</entry>
+        <entry>7</entry>
+        <entry>8</entry>
+        <entry>27</entry>
+        <entry>36</entry>
+        <entry>9</entry>
+        <entry>53</entry>
+        <entry>64</entry>
+        <entry>13</entry>
+        <entry>46</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
