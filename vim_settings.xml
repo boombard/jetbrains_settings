@@ -6,12 +6,12 @@
       <file name="/start_script.py" timestamp="1550327841937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/tracr/manage.py" timestamp="1554712898125">
-        <mark key="'" line="32" column="0" />
-        <mark key="[" line="6" column="5" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="10" />
+      <file name="$USER_HOME$/interviews/tracr/manage.py" timestamp="1554758674118">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="28" column="11" />
+        <mark key="." line="28" column="11" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="/a.dummy" timestamp="1554364532574">
         <mark key="[" line="0" column="0" />
@@ -103,11 +103,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/interviews/tracr/models.py" timestamp="1554712589002">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+      <file name="$USER_HOME$/interviews/tracr/models.py" timestamp="1554758513433">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="30" column="54" />
+        <mark key="]" line="31" column="44" />
+        <mark key="^" line="31" column="44" />
+        <mark key="." line="31" column="44" />
       </file>
       <file name="/main.player [production.db]" timestamp="1553558757558">
         <mark key="[" line="0" column="0" />
@@ -186,6 +187,9 @@
         <mark key="^" line="20" column="7" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="/a.sql" timestamp="1554758716549">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/main.Policy_Table [Prudential_Data.db]" timestamp="1553855118630">
         <mark key="[" line="0" column="0" />
       </file>
@@ -212,7 +216,7 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1554713113849">
+      <file name="/Dummy.txt" timestamp="1554758716555">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/interviews/man_onsite/test.py" timestamp="1554111913682">
@@ -310,51 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="81" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="74" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="67" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="57" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="106" column="20" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="119" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="108" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="97" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="128" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="56" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="69" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="76" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="85" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="88" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="96" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="107" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="118" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="124" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="127" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="134" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="144" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="148" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="197" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="209" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="210" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="138" column="4" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="54" column="35" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="52" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="49" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="41" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="34" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="31" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="24" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="17" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="7" column="0" filename="$USER_HOME$/software/interview_templates/scratch.py" />
-      <jump line="2" column="0" filename="$USER_HOME$/software/interview_templates/graphs.py" />
-      <jump line="127" column="34" filename="$USER_HOME$/software/interview_templates/graphs.py" />
-      <jump line="72" column="20" filename="$USER_HOME$/software/interview_templates/solution2.py" />
-      <jump line="63" column="0" filename="$USER_HOME$/software/interview_templates/solution2.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/software/interview_templates/solution2.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/software/interview_templates/ngram.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/software/interview_templates/ngram.py" />
       <jump line="18" column="0" filename="$USER_HOME$/software/interview_templates/ngram.py" />
       <jump line="23" column="0" filename="$USER_HOME$/software/interview_templates/ngram.py" />
       <jump line="15" column="0" filename="$USER_HOME$/software/interview_templates/ngram.py" />
@@ -401,61 +360,106 @@
       <jump line="15" column="28" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
       <jump line="52" column="26" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="4" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
       <jump line="10" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="14" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="19" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
       <jump line="50" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
       <jump line="42" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
       <jump line="43" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
       <jump line="32" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="3" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="29" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="16" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="33" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="40" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="47" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="39" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="41" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="43" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="46" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="49" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="51" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="54" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="56" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="59" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="62" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="64" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="68" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="71" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="2" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="15" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="18" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="20" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="23" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="26" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="28" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="37" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
+      <jump line="22" column="14" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="1" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="7" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="9" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="19" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="30" column="3" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="4" column="18" filename="$USER_HOME$/interviews/tracr/manage.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGF1dG9pbmNyZW1lbnQ9VHJ1ZSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIGxvc2VyX2lkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2xvc2VyLmlkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>append</text>
       </register>
       <register name="/" type="4">
         <text>print</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgpjbGFzcyBuR3JhbVByZWRpY3RvcjoKCiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi50cmFpbl90ZXh0ID0gW10KICAgICAgICBzZWxmLm1vZGVsID0ge30KICAgICAgICBzZWxmLm5ncmFtX2xlbmd0aCA9IDIKCiAgICBkZWYgdHJhaW4oc2VsZiwgdGV4dCwgbmdyYW1fbGVuZ3RoPU5vbmUpOgogICAgICAgIHNlbGYuX3BhcnNlX3RyYWluX3RleHQodGV4dCkKICAgICAgICBpZiBuZ3JhbV9sZW5ndGggaXMgbm90IE5vbmU6CiAgICAgICAgICAgIHNlbGYuX3NldF9uZ3JhbShuZ3JhbV9sZW5ndGgpCiAgICAgICAgbmdyYW1fY291bnQgPSB7fQogICAgICAgIGlmIHNlbGYubmdyYW1fbGVuZ3RoID09IDE6CiAgICAgICAgICAgIG5ncmFtX2NvdW50ID0gZGljdChDb3VudGVyKHNlbGYudHJhaW5fdGV4dCkpCiAgICAgICAgICAgIHRvdGFsID0gc3VtKHYgZm9yIGssIHYgaW4gbmdyYW1fY291bnQuaXRlbXMoKSkKICAgICAgICAgICAgbmdyYW1fY291bnQgPSB7azogdi90b3RhbCBmb3IgaywgdiBpbiBuZ3JhbV9jb3VudC5pdGVtcygpfQogICAgICAgICAgICBzZWxmLm1vZGVsID0gbmdyYW1fY291bnQKICAgICAgICBlbHNlOgogICAgICAgICAgICBmb3IgaSBpbiByYW5nZShzZWxmLm5ncmFtX2xlbmd0aCAtIDEsIGxlbihzZWxmLnRyYWluX3RleHQpKToKICAgICAgICAgICAgICAgIGxlYWRpbmdfd29yZCA9IHNlbGYudHJhaW5fdGV4dFtpXQogICAgICAgICAgICAgICAgbmdyYW0gPSB0dXBsZShzZWxmLnRyYWluX3RleHRbaSAtIHNlbGYubmdyYW1fbGVuZ3RoICsgMTppXSkKICAgICAgICAgICAgICAgIGlmIG5ncmFtIG5vdCBpbiBuZ3JhbV9jb3VudDoKICAgICAgICAgICAgICAgICAgICBuZ3JhbV9jb3VudFtuZ3JhbV0gPSB7fQogICAgICAgICAgICAgICAgaWYgbGVhZGluZ193b3JkIG5vdCBpbiBuZ3JhbV9jb3VudFtuZ3JhbV06CiAgICAgICAgICAgICAgICAgICAgbmdyYW1fY291bnRbbmdyYW1dW2xlYWRpbmdfd29yZF0gPSAxCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIG5ncmFtX2NvdW50W25ncmFtXVtsZWFkaW5nX3dvcmRdICs9IDEKICAgICAgICAgICAgZm9yIG5ncmFtIGluIG5ncmFtX2NvdW50OgogICAgICAgICAgICAgICAgdG90YWwgPSBzdW0odiBmb3IgaywgdiBpbiBuZ3JhbV9jb3VudFtuZ3JhbV0uaXRlbXMoKSkKICAgICAgICAgICAgICAgIG5ncmFtX2NvdW50W25ncmFtXSA9IHtrOiB2IC8gdG90YWwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgaywgdiBpbiBuZ3JhbV9jb3VudFtuZ3JhbV0uaXRlbXMoKX0KICAgICAgICAgICAgc2VsZi5tb2RlbCA9IG5ncmFtX2NvdW50CgogICAgZGVmIHByZWRpY3Qoc2VsZiwgeSk6CiAgICAgICAgeSA9IHR1cGxlKHkuc3BsaXQoJyAnKSkKICAgICAgICBpZiBzZWxmLm5ncmFtX2xlbmd0aCA+IDE6CiAgICAgICAgICAgIGlmIHkgaW4gc2VsZi5tb2RlbDoKICAgICAgICAgICAgICAgIHBvc3NpYmlsaXRpZXMgPSBzb3J0ZWQoWyhrLCB2KSBmb3IgaywgdiBpbiBzZWxmLm1vZGVsW3ldLml0ZW1zKCldLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9bGFtYmRhIHg6ICgteFsxXSwgeFswXSkpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBwb3NzaWJpbGl0aWVzID0gW10KICAgICAgICBlbHNlOgogICAgICAgICAgICBwb3NzaWJpbGl0aWVzID0gc29ydGVkKFsoaywgdikgZm9yIGssIHYgaW4gc2VsZi5tb2RlbC5pdGVtcygpXSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXk9bGFtYmRhIHg6ICgteFsxXSwgeFswXSkpCiAgICAgICAgcmV0dXJuIHBvc3NpYmlsaXRpZXMKCiAgICBkZWYgcHJpbnRfcHJlZGljdChzZWxmLCB5KToKICAgICAgICBwb3NzaWJpbGl0aWVzID0gc2VsZi5wcmVkaWN0KHkpCiAgICAgICAgcmV0dXJuICc7Jy5qb2luKCcsJy5qb2luKCh3LCAnJTMuM2YnICUgcCkpIGZvciB3LCBwIGluIHBvc3NpYmlsaXRpZXMpCgogICAgZGVmIF9wYXJzZV90cmFpbl90ZXh0KHNlbGYsIHRleHQpOgogICAgICAgIHBhcnNlZCA9IHRleHQKICAgICAgICBwYXJzZWQgPSBwYXJzZWQudHJhbnNsYXRlKHN0ci5tYWtldHJhbnMoJycsICcnLCBwdW5jdHVhdGlvbikpCiAgICAgICAgcGFyc2VkID0gcGFyc2VkLnJlcGxhY2UoJ1xuJywgJyAnKS5sb3dlcigpCiAgICAgICAgc2VsZi50cmFpbl90ZXh0ID0gW3Muc3RyaXAoKSBmb3IgcyBpbiBwYXJzZWQuc3BsaXQoJyAnKSBpZiBzICE9ICcnXQoKICAgIGRlZiBfc2V0X25ncmFtKHNlbGYsIG5ncmFtX2xlbmd0aCk6CiAgICAgICAgc2VsZi5uZ3JhbV9sZW5ndGggPSBuZ3JhbV9sZW5ndGg=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZTggPSBkYi5Db2x1bW4oZGIuRmxvYXQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRvY3VtZW50LmZpbmRfdGFncyhkYikK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgpAYXBwLmNsaS5jb21tYW5kKCdhZGRfbG9jYWxfZG9jdW1lbnQnKQpAY2xpY2suYXJndW1lbnQoJ2ZpbGVuYW1lJykKZGVmIGFkZF9sb2NhbF9kb2N1bWVudChmaWxlbmFtZSk6CiAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkKICAgIGRvY3VtZW50ID0gTG9jYWxGaWxlUGFyc2VyKGZpbGVuYW1lKQogICAgZG9jdW1lbnQubG9hZF9zZW50ZW5jZXMoZGIpCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CkBhcHAuY2xpLmNvbW1hbmQoJ3BvcHVsYXRlX3RhYmxlcycpCmRlZiBwb3B1bGF0ZV90YWJsZXMoKToKICAgICIiIiBHbyB0aHJvdWdoIHRoZSB0ZXN0IGRhdGEgYW5kIGNyZWF0ZSBoYXNodGFncyAiIiIKICAgIGZvciBmaWxlbmFtZSBpbiBnbG9iLmdsb2IoJ2RhdGEvKi50eHQnKToKICAgICAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkKICAgICAgICBkb2N1bWVudCA9IExvY2FsRmlsZVBhcnNlcihmaWxlbmFtZSkKICAgICAgICBkb2N1bWVudC5sb2FkX3NlbnRlbmNlcyhkYikKICAgICAgICBkb2N1bWVudC5maW5kX3RhZ3MoZGIpCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgpAYXBwLmNsaS5jb21tYW5kKCdhZGRfbG9jYWxfZG9jdW1lbnQnKQpAY2xpY2suYXJndW1lbnQoJ2ZpbGVuYW1lJykKZGVmIGFkZF9sb2NhbF9kb2N1bWVudChmaWxlbmFtZSk6CiAgICBwcmludCgnTG9hZGluZzonLCBmaWxlbmFtZSkKICAgIGRvY3VtZW50ID0gTG9jYWxGaWxlUGFyc2VyKGZpbGVuYW1lKQogICAgZG9jdW1lbnQubG9hZF9zZW50ZW5jZXMoZGIpCiAgICBkb2N1bWVudC5maW5kX3RhZ3MoZGIp</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBjYWxjdWxhdGlvbnMgaW1wb3J0IGZpbmRfaGFzaHRhZ3MK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBwYXJzZSBpbXBvcnQgTG9jYWxGaWxlUGFyc2VyCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgppZiBfX25hbWVfXyA9PSAnX19tYWluX18nOgogICAgYXBwLnJ1bigp</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwYXNzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CkBhcHAucm91dGUoJy8nKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwID0gRmxhc2soX19uYW1lX18pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -494,8 +498,6 @@
         <entry>print</entry>
       </history-search>
       <history-cmd>
-        <entry>9</entry>
-        <entry>53</entry>
         <entry>64</entry>
         <entry>13</entry>
         <entry>46</entry>
@@ -513,6 +515,8 @@
         <entry>58</entry>
         <entry>111</entry>
         <entry>114</entry>
+        <entry>20</entry>
+        <entry>12</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
