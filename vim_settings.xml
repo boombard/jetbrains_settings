@@ -6,7 +6,7 @@
       <file name="/start_script.py" timestamp="1550327841937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/tracr/manage.py" timestamp="1554762328954">
+      <file name="$USER_HOME$/interviews/tracr/manage.py" timestamp="1554824947154">
         <mark key="'" line="9" column="59" />
         <mark key="[" line="62" column="11" />
         <mark key="]" line="62" column="21" />
@@ -171,13 +171,12 @@
         <mark key="^" line="22" column="5" />
         <mark key="." line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/interviews/tracr/app.py" timestamp="1554712937435">
+      <file name="$USER_HOME$/interviews/tracr/app.py" timestamp="1554889652659">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="1" column="30" />
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/software/bifurlo/api/collectors.py" timestamp="1554761764710" />
       <file name="$USER_HOME$/software/document_hashtags/test/test_parse.py" timestamp="1550412071740">
         <mark key="[" line="10" column="20" />
         <mark key="]" line="11" column="25" />
@@ -302,7 +301,7 @@
         <mark key="^" line="80" column="0" />
         <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/tracr/calculations.py" timestamp="1554805616087">
+      <file name="$USER_HOME$/interviews/tracr/calculations.py" timestamp="1554825697312">
         <mark key="'" line="45" column="40" />
         <mark key="[" line="81" column="4" />
         <mark key="]" line="82" column="27" />
