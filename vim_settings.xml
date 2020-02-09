@@ -328,6 +328,7 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/software/lbh_berthtrack/src/flask-admin-master/examples/auth/auth.py" timestamp="1579764194865" />
     </filemarks>
     <jumps>
       <jump line="8" column="0" filename="$USER_HOME$/interviews/document_hashtags/app.py" />
@@ -445,7 +446,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text>hash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbGxhcHNlZF9kYXRhLCBuZXdfYXR0cmlidXRlcyA9IHRyYW5zZm9ybV9kYXRhKGRhdGEpCg==</text>
@@ -478,13 +479,13 @@
         <text encoding="base64">ICAgIGNvbGxhcHNlZF9kYXRhLmZpbGxuYSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search>hash</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern>hash</last-pattern>
       <last-replace>VesselType</last-replace>
       <last-substitute>Berth</last-substitute>
       <last-dir>1</last-dir>
@@ -492,8 +493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loader</entry>
-        <entry>outputPath</entry>
         <entry>karmaConfig</entry>
         <entry>root</entry>
         <entry>protractor</entry>
@@ -512,9 +511,10 @@
         <entry>expression</entry>
         <entry>fill</entry>
         <entry>print</entry>
+        <entry>generate_password</entry>
+        <entry>hash</entry>
       </history-search>
       <history-cmd>
-        <entry>17</entry>
         <entry encoding="base64">IHc=</entry>
         <entry>4</entry>
         <entry>47</entry>
@@ -534,6 +534,7 @@
         <entry>22</entry>
         <entry>29</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
