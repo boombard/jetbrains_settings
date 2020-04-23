@@ -308,12 +308,11 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/software/ocado/query_ocado.py" timestamp="1587662760055">
-        <mark key="'" line="29" column="51" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/software/ocado/query_ocado.py" timestamp="1587663029290">
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/interviews/smartodds/app.py" timestamp="1553557908790">
         <mark key="'" line="25" column="34" />
@@ -337,7 +336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
       <jump line="17" column="13" filename="$USER_HOME$/interviews/tracr/app.py" />
       <jump line="16" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
       <jump line="10" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
@@ -435,72 +433,58 @@
       <jump line="24" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="14" column="47" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="13" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="29" column="51" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="27" column="11" filename="$USER_HOME$/software/ocado/query_ocado.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGF1dG9pbmNyZW1lbnQ9VHJ1ZSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIGxvc2VyX2lkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2xvc2VyLmlkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>os.getcwd() + &quot;\\chromedriver.exe&quot;</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbGxhcHNlZF9kYXRhLCBuZXdfYXR0cmlidXRlcyA9IHRyYW5zZm9ybV9kYXRhKGRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmdldF9zY3JlZW5zaG90X2FzX2ZpbGUoImNhcHR1cmUucG5nIikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuZmluZF9lbGVtZW50X2J5X3hwYXRoKCIvL2RpdltAaWQ9J3Nsb3RzVGFibGVXcmFwcGVyJ10vZGl2L2RpdlszXS9kaXYvZGl2L3NwYW5bM10iKS5jbGljaygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bSBpbXBvcnQgd2ViZHJpdmVyCmZyb20gc2VsZW5pdW0ud2ViZHJpdmVyLmNocm9tZS5vcHRpb25zIGltcG9ydCBPcHRpb25zCgoK</text>
+        <text encoding="base64">ICAgICAgICAjIGRvd25sb2FkIHRoZSBjaHJvbWUgZHJpdmVyIGZyb20gaHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL2EvY2hyb21pdW0ub3JnL2Nocm9tZWRyaXZlci9kb3dubG9hZHMgYW5kIHB1dCBpdCBpbiB0aGUKICAgICAgICAjIGN1cnJlbnQgZGlyZWN0b3J5Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBjaHJvbWVfb3B0aW9ucyA9IE9wdGlvbnMoKQogICAgY2hyb21lX29wdGlvbnMuYWRkX2FyZ3VtZW50KCItLWhlYWRsZXNzIikKICAgIGNocm9tZV9vcHRpb25zLmFkZF9hcmd1bWVudCgiLS13aW5kb3ctc2l6ZT0xOTIweDEwODAiKQoKICAgIGNocm9tZV9kcml2ZXIgPSAiL29wdC9jaHJvbWVkcml2ZXIiCiAKICAgIGRyaXZlciA9IHdlYmRyaXZlci5DaHJvbWUoY2hyb21lX29wdGlvbnM9Y2hyb21lX29wdGlvbnMsIGV4ZWN1dGFibGVfcGF0aD1jaHJvbWVfZHJpdmVyKQogICAgZHJpdmVyLgoKICAgIGRyaXZlci5nZXRfc2NyZWVuc2hvdF9hc19maWxlKCJjYXB0dXJlLnBuZyIp</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlciA9IHdlYmRyaXZlci5DaHJvbWUoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0KCJodHRwczovL2FjY291bnRzLm9jYWRvLmNvbS9hdXRoLXNlcnZpY2Uvc3NvL2xvZ2luIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRyaXZlci5nZXQoImh0dHBzOi8vYWNjb3VudHMub2NhZG8uY29tL2F1dGgtc2VydmljZS9zc28vbG9naW4iKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
-
-
-if __name__ == &quot;__main__&quot;:
-    chrome_options = Options()
-    chrome_options.add_argument(&quot;--headless&quot;)
-    chrome_options.add_argument(&quot;--window-size=1920x1080&quot;)
-
-    chrome_driver = &quot;/opt/chromedriver&quot;
- 
-    driver = webdriver.Chrome(chrome_options=chrome_options, executable_path=chrome_driver)
-    driver.get(&quot;https://accounts.ocado.com/auth-service/sso/login&quot;)
-    driver.
-
-    driver.get_screenshot_as_file(&quot;capture.png&quot;)</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action Run</text>
       </register>
     </registers>
     <search>
@@ -536,7 +520,6 @@ if __name__ == &quot;__main__&quot;:
         <entry>hash</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">IHc=</entry>
         <entry>4</entry>
         <entry>47</entry>
         <entry>21</entry>
@@ -556,6 +539,7 @@ if __name__ == &quot;__main__&quot;:
         <entry>29</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action Run</entry>
       </history-cmd>
       <history-expr />
       <history-input />
