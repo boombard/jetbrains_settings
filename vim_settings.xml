@@ -308,11 +308,13 @@
         <mark key="^" line="82" column="27" />
         <mark key="." line="82" column="27" />
       </file>
-      <file name="$USER_HOME$/software/ocado/query_ocado.py" timestamp="1587663029290">
-        <mark key="'" line="27" column="11" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/software/ocado/query_ocado.py" timestamp="1587707149927">
+        <mark key="a" line="41" column="0" />
+        <mark key="'" line="1" column="8" />
+        <mark key="[" line="21" column="40" />
+        <mark key="]" line="21" column="40" />
+        <mark key="." line="21" column="40" />
+        <mark key="^" line="21" column="38" />
       </file>
       <file name="$USER_HOME$/interviews/smartodds/app.py" timestamp="1553557908790">
         <mark key="'" line="25" column="34" />
@@ -336,10 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/interviews/tracr/app.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
-      <jump line="21" column="0" filename="$USER_HOME$/interviews/tracr/app.py" />
       <jump line="15" column="28" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
       <jump line="0" column="0" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
       <jump line="52" column="26" filename="$USER_HOME$/interviews/tracr/manage.py" />
@@ -432,56 +430,60 @@
       <jump line="32" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="24" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="14" column="47" filename="$USER_HOME$/software/ocado/query_ocado.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="29" column="51" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="8" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="27" column="11" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="22" column="19" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="13" column="37" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="34" column="15" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="38" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="1" column="8" filename="$USER_HOME$/software/ocado/query_ocado.py" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGF1dG9pbmNyZW1lbnQ9VHJ1ZSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>executable_path=chrome_driver</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIGxvc2VyX2lkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2xvc2VyLmlkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>os.getcwd() + &quot;\\chromedriver.exe&quot;</text>
+        <text>executable_path=chrome_driver</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmdldF9zY3JlZW5zaG90X2FzX2ZpbGUoImNhcHR1cmUucG5nIikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlciA9IHdlYmRyaXZlci5DaHJvbWUoZXhlY3V0YWJsZV9wYXRoPWNocm9tZV9kcml2ZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvd25sb2FkIHRoZSBjaHJvbWUgZHJpdmVyIGZyb20gaHR0cHM6Ly9zaXRlcy5nb29nbGUuY29tL2EvY2hyb21pdW0ub3JnL2Nocm9tZWRyaXZlci9kb3dubG9hZHMgYW5kIHB1dCBpdCBpbiB0aGUKICAgICAgICAjIGN1cnJlbnQgZGlyZWN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlciA9IHdlYmRyaXZlci5DaHJvbWUoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXAgPSBiczQuQmVhdXRpZnVsU291cChodG1sKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuY29tbW9uLmtleXMgaW1wb3J0IEtleXMKZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydC51aSBpbXBvcnQgU2VsZWN0Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmZpbmRfZWxlbWVudF9ieV94cGF0aCgiLy9kaXZbQGlkPSdjb250ZW50J10vZGl2L2RpdlsyXS9kaXYvZGl2L2RpdlsyXS9kaXZbMl0vYnV0dG9uIikuY2xpY2soKQogICAgICAgICAgICBkcml2ZXIuZ2V0X3NjcmVlbnNob3RfYXNfZmlsZSgiY2FwdHVyZS5wbmciKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Run</text>
