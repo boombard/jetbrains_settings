@@ -1,11 +1,69 @@
 <application>
-  <component name="VimSettings">
-    <state version="4" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>karmaConfig</entry>
+        <entry>root</entry>
+        <entry>protractor</entry>
+        <entry>exclude</entry>
+        <entry>test</entry>
+        <entry>new_da</entry>
+        <entry>Token</entry>
+        <entry>one</entry>
+        <entry>line</entry>
+        <entry>Line</entry>
+        <entry>token_entries</entry>
+        <entry>annotation</entry>
+        <entry>one()</entry>
+        <entry>experiment</entry>
+        <entry>create=</entry>
+        <entry>expression</entry>
+        <entry>fill</entry>
+        <entry>print</entry>
+        <entry>generate_password</entry>
+        <entry>hash</entry>
+      </history-search>
+      <history-cmd>
+        <entry>4</entry>
+        <entry>47</entry>
+        <entry>21</entry>
+        <entry>3</entry>
+        <entry>23</entry>
+        <entry>26</entry>
+        <entry>48</entry>
+        <entry>548</entry>
+        <entry>58</entry>
+        <entry>111</entry>
+        <entry>114</entry>
+        <entry>20</entry>
+        <entry>12</entry>
+        <entry>W</entry>
+        <entry>;22</entry>
+        <entry>22</entry>
+        <entry>29</entry>
+        <entry>q</entry>
+        <entry>action Run</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/start_script.py" timestamp="1550327841937">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/interviews/tracr/manage.py" timestamp="1554824947154">
         <mark key="'" line="9" column="59" />
         <mark key="[" line="62" column="11" />
@@ -16,101 +74,17 @@
       <file name="/a.dummy" timestamp="1554364532574">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/software/interview_templates/recursion.py" timestamp="1554299031820">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-      </file>
       <file name="/main.fault_model [production.db]" timestamp="1554762133988">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/smartodds/schemas.py" timestamp="1553556160203">
-        <mark key="'" line="6" column="15" />
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="1" column="29" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="1" column="29" />
-      </file>
       <file name="$USER_HOME$/interviews/document_hashtags/manage.py" timestamp="1554712474738">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/manage.py" timestamp="1553559604440">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="6" column="29" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/README.md" timestamp="1553590060964">
-        <mark key="[" line="15" column="3" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/models.py" timestamp="1553559632890">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="33" column="62" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/df07f7f1-b55d-4509-83e4-a99b40e44b91/console.sql" timestamp="1553861779291">
-        <mark key="'" line="8" column="50" />
-        <mark key="[" line="12" column="85" />
-        <mark key="]" line="12" column="85" />
-        <mark key="." line="12" column="85" />
-        <mark key="^" line="18" column="6" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/app.py" timestamp="1553543916691">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="13" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="6" column="41" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/README.md" timestamp="1550443579036">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/tsconfig.json" timestamp="1527007618146">
-        <mark key="[" line="3" column="31" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/resources.py" timestamp="1553559541063">
-        <mark key="'" line="26" column="21" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="46" column="50" />
       </file>
       <file name="/main.device [production.db]" timestamp="1554760314817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/main.measurement [production.db]" timestamp="1554760455646">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/interview_templates/euclidean_algorithm.py" timestamp="1549803770414">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/parse.py" timestamp="1553558880759">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="42" column="45" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartodds/extensions.py" timestamp="1553557170162">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="3" column="10" />
       </file>
       <file name="$USER_HOME$/interviews/tracr/models.py" timestamp="1554762092650">
         <mark key="'" line="32" column="0" />
@@ -119,57 +93,18 @@
         <mark key="." line="8" column="34" />
         <mark key="^" line="8" column="34" />
       </file>
-      <file name="/main.player [production.db]" timestamp="1553558757558">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PycharmProjects/scratch/test.py" timestamp="1549614499167">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="17" />
-        <mark key="." line="8" column="15" />
-      </file>
-      <file name="/Policy_Table [Prudential_Data.db]" timestamp="1554295785429">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/interview_templates/strings.py" timestamp="1554302915276">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="42" column="19" />
-        <mark key="]" line="51" column="22" />
-        <mark key="^" line="53" column="3" />
-        <mark key="." line="51" column="22" />
-      </file>
-      <file name="$USER_HOME$/software/lbh_berthtrack/base_app/finances_manager/forms.py" timestamp="1526983999730">
-        <mark key="[" line="18" column="46" />
-        <mark key="]" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-      </file>
-      <file name="/main.series [production.db]" timestamp="1553558754881">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/document_hashtags/extensions.py" timestamp="1553543989978">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_onsite/orders.txt" timestamp="1554111191354">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="2" column="5" />
-        <mark key="^" line="0" column="17" />
-        <mark key="." line="2" column="5" />
-      </file>
       <file name="/Python Console" timestamp="1554666979062">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/interviews/document_hashtags/app.py" timestamp="1554712414645">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/karma.conf.js" timestamp="1527005816894">
-        <mark key="[" line="21" column="56" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/projects/multi_factor/download.py" timestamp="1607603858637">
+        <mark key="'" line="13" column="11" />
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="22" />
+        <mark key="." line="34" column="21" />
+        <mark key="^" line="34" column="22" />
       </file>
       <file name="$USER_HOME$/interviews/tracr/app.py" timestamp="1554889652659">
         <mark key="[" line="0" column="23" />
@@ -177,46 +112,11 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/software/document_hashtags/test/test_parse.py" timestamp="1550412071740">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_ah/query.sql" timestamp="1553682232154">
-        <mark key="[" line="0" column="48" />
-        <mark key="]" line="0" column="48" />
-        <mark key="^" line="0" column="48" />
-        <mark key="." line="0" column="48" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_ah/test.py" timestamp="1553273050125">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="/a.sql" timestamp="1554758716549">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.Policy_Table [Prudential_Data.db]" timestamp="1553855118630">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/797a8017-0777-4d6b-bee9-6572aa5e1e73/console.sql" timestamp="1526988595948">
-        <mark key="[" line="5" column="36" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-      </file>
       <file name="/dummy.sql" timestamp="1554762607795">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_onsite/orders.py" timestamp="1554112026068">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="58" column="19" />
       </file>
       <file name="$USER_HOME$/software/interview_templates/solution2.py" timestamp="1554375150086">
         <mark key="'" line="0" column="0" />
@@ -228,12 +128,6 @@
       <file name="/Dummy.txt" timestamp="1587662810016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/interviews/man_onsite/test.py" timestamp="1554111913682">
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="39" />
-        <mark key="^" line="52" column="39" />
-        <mark key="." line="52" column="39" />
-      </file>
       <file name="$USER_HOME$/software/interview_templates/ngram.py" timestamp="1554711976532">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="79" column="39" />
@@ -241,58 +135,11 @@
         <mark key="." line="79" column="40" />
         <mark key="^" line="47" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6dbab2db-de16-465e-8444-fab88cdaebc9/console_1.sql" timestamp="1553589897814">
-        <mark key="[" line="8" column="43" />
-        <mark key="]" line="8" column="44" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="44" />
-      </file>
-      <file name="/main.tournament [production.db]" timestamp="1553559278494">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/main.location [production.db]" timestamp="1553558774579">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/lbh-mis-frontend/src/test.ts" timestamp="1527006527336">
-        <mark key="[" line="9" column="35" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/interview_templates/trees.py" timestamp="1553175315599">
-        <mark key="'" line="8" column="22" />
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="32" column="22" />
-        <mark key="^" line="32" column="22" />
-        <mark key="." line="32" column="22" />
-      </file>
-      <file name="/main.match [production.db]" timestamp="1553558764510">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/software/interview_templates/greedy.py" timestamp="1549823351032">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="27" />
-        <mark key="." line="4" column="27" />
-        <mark key="^" line="4" column="27" />
-      </file>
       <file name="$USER_HOME$/software/interview_templates/scratch.py" timestamp="1554364491060">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="120" column="13" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_ah/README.md" timestamp="1553272855260">
-        <mark key="'" line="2" column="10" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a9b26c2-2480-4188-b759-4b6a15b4321b/console.sql" timestamp="1553270810522">
-        <mark key="[" line="36" column="28" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="0" />
-        <mark key="." line="36" column="28" />
       </file>
       <file name="$USER_HOME$/software/interview_templates/graphs.py" timestamp="1554364487549">
         <mark key="'" line="127" column="34" />
@@ -316,38 +163,8 @@
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/interviews/smartodds/app.py" timestamp="1553557908790">
-        <mark key="'" line="25" column="34" />
-        <mark key="[" line="25" column="57" />
-        <mark key="]" line="25" column="57" />
-        <mark key="^" line="3" column="73" />
-        <mark key="." line="25" column="57" />
-      </file>
-      <file name="$USER_HOME$/interviews/man_ah/random_gen.py" timestamp="1553679451464">
-        <mark key="'" line="104" column="11" />
-        <mark key="[" line="113" column="17" />
-        <mark key="]" line="113" column="29" />
-        <mark key="." line="122" column="44" />
-        <mark key="^" line="113" column="29" />
-      </file>
-      <file name="$USER_HOME$/interviews/smartoods/app.py" timestamp="1553543941927">
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="28" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/interviews/document_hashtags/manage.py" />
-      <jump line="52" column="26" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="10" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="42" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="32" column="0" filename="$USER_HOME$/interviews/tracr/manage.py" />
-      <jump line="3" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
-      <jump line="29" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
-      <jump line="16" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
       <jump line="0" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
       <jump line="1" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
       <jump line="25" column="0" filename="$USER_HOME$/interviews/tracr/models.py" />
@@ -438,19 +255,31 @@
       <jump line="34" column="15" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="38" column="0" filename="$USER_HOME$/software/ocado/query_ocado.py" />
       <jump line="1" column="8" filename="$USER_HOME$/software/ocado/query_ocado.py" />
+      <jump line="19" column="29" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="8" column="35" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="9" column="36" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="27" column="4" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="6" column="0" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="37" column="5" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="34" column="13" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="31" column="0" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/multi_factor/download.py" />
+      <jump line="13" column="11" filename="$USER_HOME$/projects/multi_factor/download.py" />
     </jumps>
+  </component>
+  <component name="VimRegisterSettings">
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIGlkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGF1dG9pbmNyZW1lbnQ9VHJ1ZSwgcHJpbWFyeV9rZXk9VHJ1ZSkK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>executable_path=chrome_driver</text>
+        <text>1d</text>
       </register>
       <register name="b" type="2">
         <text encoding="base64">ICAgIGxvc2VyX2lkID0gZGIuQ29sdW1uKGRiLkludGVnZXIsIGRiLkZvcmVpZ25LZXkoJ2xvc2VyLmlkJyksCiAgICAgICAgICAgICAgICAgICAgICAgICBudWxsYWJsZT1GYWxzZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>executable_path=chrome_driver</text>
+        <text>1d</text>
       </register>
       <register name="/" type="4">
         <text>hash</text>
@@ -459,36 +288,38 @@
         <text encoding="base64">ICAgICAgICBzZWxmLmRyaXZlciA9IHdlYmRyaXZlci5DaHJvbWUoZXhlY3V0YWJsZV9wYXRoPWNocm9tZV9kcml2ZXIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmcmVuY2hfZmFjdG9yID0gemlwZmlsZS5vcGVuKGZpbGUpLnJlYWQoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcwo=</text>
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IHNlYWJvcm4gYXMgc25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLgo=</text>
+        <text encoding="base64">ZnJvbSBtYXRwbG90bGliIGltcG9ydCBweXBsb3QgYXMgcGx0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhbmRhcyBhcyBwZAppbXBvcnQgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXAgPSBiczQuQmVhdXRpZnVsU291cChodG1sKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuY29tbW9uLmtleXMgaW1wb3J0IEtleXMKZnJvbSBzZWxlbml1bS53ZWJkcml2ZXIuc3VwcG9ydC51aSBpbXBvcnQgU2VsZWN0Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZHJpdmVyLmZpbmRfZWxlbWVudF9ieV94cGF0aCgiLy9kaXZbQGlkPSdjb250ZW50J10vZGl2L2RpdlsyXS9kaXYvZGl2L2RpdlsyXS9kaXZbMl0vYnV0dG9uIikuY2xpY2soKQogICAgICAgICAgICBkcml2ZXIuZ2V0X3NjcmVlbnNob3RfYXNfZmlsZSgiY2FwdHVyZS5wbmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0aW1lLgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action Run</text>
+        <text>w</text>
       </register>
     </registers>
+  </component>
+  <component name="VimSearchSettings">
     <search>
       <last-search>hash</last-search>
       <last-offset />
@@ -498,61 +329,12 @@
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>karmaConfig</entry>
-        <entry>root</entry>
-        <entry>protractor</entry>
-        <entry>exclude</entry>
-        <entry>test</entry>
-        <entry>new_da</entry>
-        <entry>Token</entry>
-        <entry>one</entry>
-        <entry>line</entry>
-        <entry>Line</entry>
-        <entry>token_entries</entry>
-        <entry>annotation</entry>
-        <entry>one()</entry>
-        <entry>experiment</entry>
-        <entry>create=</entry>
-        <entry>expression</entry>
-        <entry>fill</entry>
-        <entry>print</entry>
-        <entry>generate_password</entry>
-        <entry>hash</entry>
-      </history-search>
-      <history-cmd>
-        <entry>4</entry>
-        <entry>47</entry>
-        <entry>21</entry>
-        <entry>3</entry>
-        <entry>23</entry>
-        <entry>26</entry>
-        <entry>48</entry>
-        <entry>548</entry>
-        <entry>58</entry>
-        <entry>111</entry>
-        <entry>114</entry>
-        <entry>20</entry>
-        <entry>12</entry>
-        <entry>W</entry>
-        <entry>;22</entry>
-        <entry>22</entry>
-        <entry>29</entry>
-        <entry>q</entry>
-        <entry>w</entry>
-        <entry>action Run</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
